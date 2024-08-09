@@ -786,6 +786,7 @@
 
 ## others 
 
+- [openvpi/audio-slicer](https://github.com/openvpi/audio-slicer) - Python script that slices audio with silence detection
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [karpathy/ulogme](https://github.com/karpathy/ulogme) - Automatically collect and visualize usage statistics in Ubuntu/OSX environments.
 - [zenithexpo/iblink](https://github.com/zenithexpo/iblink) - iBlink (Eye blink reminder): An Application to help you remind to blink and protect your eyes!
@@ -847,7 +848,7 @@
 - [studioprisoner/photo-stream](https://github.com/studioprisoner/photo-stream) - Self-hosted, super simple photo stream
 - [json-schema-org/community](https://github.com/json-schema-org/community) - A space to discuss community and organisational related things
 - [kevin-powell/reponsive-web-design-bootcamp](https://github.com/kevin-powell/reponsive-web-design-bootcamp) - Course files for the Responsive Web Design Bootcamp: [https://scrimba.com/course/gresponsive/]
-- [Inochi2D/inochi2d](https://github.com/Inochi2D/inochi2d) - Inochi2D reference implementation aimed at rendering 2D puppets that can be animated in real-time (using eg. facial capture).
+- [Inochi2D/inochi2d](https://github.com/Inochi2D/inochi2d) - Inochi2D SDK - Bring your characters to life
 - [prondubuisi/accepted-gsoc-proposals](https://github.com/prondubuisi/accepted-gsoc-proposals) - A repository containing links to accepted proposals for GSoC, Hopefully this helps someone write a better proposal and get accepted into the program
 - [googleworkspace/apps-script-samples](https://github.com/googleworkspace/apps-script-samples) - Apps Script samples for Google Workspace products.
 - [json-schema-org/JSON-Schema-Test-Suite](https://github.com/json-schema-org/JSON-Schema-Test-Suite) - A language agnostic test suite for the JSON Schema specifications
