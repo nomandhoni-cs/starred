@@ -44,7 +44,7 @@
 
 - [Alex313031/Thorium-Win](https://github.com/Alex313031/Thorium-Win) - Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium
 - [kamrullab/idm](https://github.com/kamrullab/idm) - IDM (Internet Download Manager) is a popular download manager known for its fast download speeds and enhanced features. This repository provides a method to activate IDM for a lifetime, allowing you t
-- [nexB/aboutcode](https://github.com/nexB/aboutcode) - AboutCode project: tools and data to uncover things about code: the provenance, origin, license, and more (packages, security, quality, etc.) of FOSS code
+- [aboutcode-org/aboutcode](https://github.com/aboutcode-org/aboutcode) - AboutCode project: tools and data to uncover things about code: the provenance, origin, license, and more (packages, security, quality, etc.) of FOSS code
 
 ## C 
 
@@ -92,7 +92,7 @@
 
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
-- [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually work!
+- [keploy/keploy](https://github.com/keploy/keploy) - Shadow Test generation for Developers. Generate tests and stubs for your application that actually work!
 - [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img) - 
 - [made-in-bangladesh/made-in-bangladesh](https://github.com/made-in-bangladesh/made-in-bangladesh) - A curated list of awesome frameworks, libraries and softwares made in Bangladesh.
 - [honeynet/ochi](https://github.com/honeynet/ochi) - 
