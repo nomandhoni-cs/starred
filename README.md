@@ -104,6 +104,7 @@
 
 ## HTML 
 
+- [DeshiJS/DeshiJS](https://github.com/DeshiJS/DeshiJS) - A smooth, minimal framework for infusing JavaScript with dynamic behavior
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
 - [studioprisoner/photo-stream](https://github.com/studioprisoner/photo-stream) - Self-hosted, super simple photo stream
 - [kevin-powell/reponsive-web-design-bootcamp](https://github.com/kevin-powell/reponsive-web-design-bootcamp) - Course files for the Responsive Web Design Bootcamp: [https://scrimba.com/course/gresponsive/]
@@ -207,6 +208,7 @@
 
 ## Kotlin 
 
+- [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
 - [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
 
 ## MDX 
@@ -310,6 +312,7 @@
 
 ## Rust 
 
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
 
