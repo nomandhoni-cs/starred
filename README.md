@@ -120,6 +120,7 @@
 
 ## Java 
 
+- [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [pythonbrad/afrim-keyboard](https://github.com/pythonbrad/afrim-keyboard) - afrim-keyboard/Afrim Input Method Engine for Android
 - [rkkr/simple-keyboard](https://github.com/rkkr/simple-keyboard) - 
 - [JesusFreke/smali](https://github.com/JesusFreke/smali) - smali/baksmali
