@@ -252,7 +252,7 @@
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
 - [foyzulkarim/mock-interviews-2023](https://github.com/foyzulkarim/mock-interviews-2023) - 
 - [lahin31/system-design-bangla](https://github.com/lahin31/system-design-bangla) - System Design Tutorial in Bangla
-- [fahimreza-dev/bangladesh-geojson](https://github.com/fahimreza-dev/bangladesh-geojson) - Bangladesh GEOJSON - Divisions, Districts, Upazilas
+- [ifahimreza/bangladesh-geojson](https://github.com/ifahimreza/bangladesh-geojson) - Bangladesh GEOJSON - Divisions, Districts, Upazilas
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [dellamora/gsoc-2023-proposal](https://github.com/dellamora/gsoc-2023-proposal) - 
 - [faisalahammad/wordpress-support-engineer-resources](https://github.com/faisalahammad/wordpress-support-engineer-resources) - WordPress Support Engineer Resources
