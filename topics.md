@@ -878,7 +878,7 @@
 - [lahin31/system-design-bangla](https://github.com/lahin31/system-design-bangla) - System Design Tutorial in Bangla
 - [liriliri/chii](https://github.com/liriliri/chii) - Remote debugging tool
 - [ziaulhoque24/react-rating-star-with-type](https://github.com/ziaulhoque24/react-rating-star-with-type) - This simple react rating star component with typescript support made by Ziaul Hoque Founder of Revuers.com
-- [fahimreza-dev/bangladesh-geojson](https://github.com/fahimreza-dev/bangladesh-geojson) - Bangladesh GEOJSON - Divisions, Districts, Upazilas
+- [ifahimreza/bangladesh-geojson](https://github.com/ifahimreza/bangladesh-geojson) - Bangladesh GEOJSON - Divisions, Districts, Upazilas
 - [a-trost/fableton](https://github.com/a-trost/fableton) - Little demo site showing off the youtube embed
 - [Sourav9063/ftp-nextron](https://github.com/Sourav9063/ftp-nextron) - 
 - [Sourav9063/ftp_searcher](https://github.com/Sourav9063/ftp_searcher) - All ftp media of Bangladesh
