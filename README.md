@@ -223,7 +223,7 @@
 
 - [denniskigen/o3-docs](https://github.com/denniskigen/o3-docs) - Documentation site for O3, the frontend framework for OpenMRS.
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
-- [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind, and Vercel.
+- [leerob/site](https://github.com/leerob/site) - My site built with Next.js, Tailwind, and Vercel.
 - [vercel/swr-site](https://github.com/vercel/swr-site) - The official website for SWR.
 
 ## Others 
