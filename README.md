@@ -137,6 +137,7 @@
 
 ## JavaScript 
 
+- [glidejs/glide](https://github.com/glidejs/glide) - A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more
 - [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
 - [DeshiJS/DeshiJS](https://github.com/DeshiJS/DeshiJS) - A smooth, minimal framework for infusing JavaScript with dynamic behavior
 - [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) - BookmarkHub , sync bookmarks across different browsers
@@ -358,7 +359,7 @@
 ## Swift 
 
 - [rurza/BatFi](https://github.com/rurza/BatFi) - Battery charging limiter for macOS.
-- [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - macOS menubar tool to set Charge Limits and prolong battery lifespan
+- [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
 - [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
@@ -418,7 +419,7 @@
 - [mahmodghnaj/chatXo-frontend](https://github.com/mahmodghnaj/chatXo-frontend) - The ChatXo is a Next.js application that allows two users to communicate with each other through real-time chat. It provides features such as friend management, allowing users to add, delete, and sear
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn
+- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn/ui
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec
 - [shadcn/next-contentlayer](https://github.com/shadcn/next-contentlayer) - A template with Next.js 13 app dir, Contentlayer, Tailwind CSS and dark mode.
 - [ziaulhoque24/react-rating-star-with-type](https://github.com/ziaulhoque24/react-rating-star-with-type) - This simple react rating star component with typescript support made by Ziaul Hoque Founder of Revuers.com
