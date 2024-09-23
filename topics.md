@@ -859,6 +859,7 @@
 
 ## others 
 
+- [measuredco/puck](https://github.com/measuredco/puck) - The visual editor for React
 - [Shopify/dawn](https://github.com/Shopify/dawn) - Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
 - [Shopify/liquid](https://github.com/Shopify/liquid) - Liquid markup language. Safe, customer facing template language for flexible web apps.
 - [1aurabrown/shopify-boilerplate](https://github.com/1aurabrown/shopify-boilerplate) - 
