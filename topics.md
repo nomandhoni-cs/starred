@@ -215,7 +215,7 @@
 ## automation 
 
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
-- [feder-cr/linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI) - LinkedIn_AIHawk is a tool that automates  the jobs application process on LinkedIn. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalize
+- [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized w
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 
 ## awesome 
@@ -284,7 +284,7 @@
 
 ## bot 
 
-- [feder-cr/linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI) - LinkedIn_AIHawk is a tool that automates  the jobs application process on LinkedIn. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalize
+- [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized w
 - [tahirahmed22/DiscordBot](https://github.com/tahirahmed22/DiscordBot) - Basic DIscord Bot that will detect words in a sentence and reply with predefined words/sentences.
 
 ## c 
@@ -307,7 +307,7 @@
 
 ## chatgpt 
 
-- [feder-cr/linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI) - LinkedIn_AIHawk is a tool that automates  the jobs application process on LinkedIn. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalize
+- [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized w
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -321,7 +321,7 @@
 
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
-- [feder-cr/linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI) - LinkedIn_AIHawk is a tool that automates  the jobs application process on LinkedIn. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalize
+- [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized w
 - [mrinc/F-B-Hide-Recommendations-and-Reels](https://github.com/mrinc/F-B-Hide-Recommendations-and-Reels) - This google chrome extension hides Reels and recommendations on Facebook
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [Alex313031/Thorium-Win](https://github.com/Alex313031/Thorium-Win) - Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium
@@ -1027,7 +1027,7 @@
 
 ## python 
 
-- [feder-cr/linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI) - LinkedIn_AIHawk is a tool that automates  the jobs application process on LinkedIn. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalize
+- [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized w
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
@@ -1042,7 +1042,7 @@
 
 ## python3 
 
-- [feder-cr/linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI) - LinkedIn_AIHawk is a tool that automates  the jobs application process on LinkedIn. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalize
+- [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized w
 - [devhasibulislam/autotrain-dreambooth](https://github.com/devhasibulislam/autotrain-dreambooth) - Create LinkedIn/AI Headshots For Absolutely Free!
 - [KhushbooGoel01/Top-Interview-Questions--Leetcode](https://github.com/KhushbooGoel01/Top-Interview-Questions--Leetcode) - These are codes for Top Interview Questions from Leetcode.
 
