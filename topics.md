@@ -571,7 +571,6 @@
 
 - [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace) - All of the official Tauri plugins in one place!
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [open-sauced/app](https://github.com/open-sauced/app) - 🍕 Insights into your entire open source ecosystem.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [nomandhoni-cs/Showwand](https://github.com/nomandhoni-cs/Showwand) - A magical Browser extension, which directly post, delete in your Showwcase thread.
@@ -861,6 +860,7 @@
 
 ## others 
 
+- [cgsecurity/testdisk](https://github.com/cgsecurity/testdisk) - TestDisk & PhotoRec
 - [tom-james-watson/breaktimer-app](https://github.com/tom-james-watson/breaktimer-app) - Manage periodic breaks. Avoid eye-strain and RSI.
 - [autonomys/subspace-desktop](https://github.com/autonomys/subspace-desktop) - A simple desktop farmer for the Subspace Network
 - [tauri-apps/tauri-plugin-autostart](https://github.com/tauri-apps/tauri-plugin-autostart) - [READ ONLY] This repository is a mirror, for issue tracking and development head to: https://github.com/tauri-apps/plugins-workspace
@@ -874,7 +874,7 @@
 - [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
 - [rkkr/simple-keyboard](https://github.com/rkkr/simple-keyboard) - 
 - [JesusFreke/smali](https://github.com/JesusFreke/smali) - smali/baksmali
-- [DeshiJS/DeshiJS](https://github.com/DeshiJS/DeshiJS) - A smooth, minimal framework for infusing JavaScript with dynamic behavior
+- [olovajs/DeshiJS](https://github.com/olovajs/DeshiJS) - A smooth, minimal framework for infusing JavaScript with dynamic behavior
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
 - [derv82/wifite2](https://github.com/derv82/wifite2) - Rewrite of the popular wireless network auditor, "wifite"
 - [openvpi/audio-slicer](https://github.com/openvpi/audio-slicer) - Python script that slices audio with silence detection
