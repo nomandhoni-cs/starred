@@ -231,6 +231,7 @@
 
 ## Liquid 
 
+- [odestry/dawn-with-tailwind](https://github.com/odestry/dawn-with-tailwind) - Dawn Shopify reference theme setup with Tailwind CSS and Vite. Password: odestry
 - [Shopify/dawn](https://github.com/Shopify/dawn) - Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
 - [1aurabrown/shopify-boilerplate](https://github.com/1aurabrown/shopify-boilerplate) - 
 - [johndigital/shopify-boilerplate](https://github.com/johndigital/shopify-boilerplate) - Basic boilerplate theme for Shopify using themekit
