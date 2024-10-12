@@ -576,6 +576,7 @@
 - [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Framework
 - [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace) - All of the official Tauri plugins in one place!
 - [muhammadhafijur/image-blender](https://github.com/muhammadhafijur/image-blender) - The open-source Image Blending Tool for transforming your images with powerful effects. Upload, customize, and download your visuals instantly, and easily copy the generated Tailwind CSS code.
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [nomandhoni-cs/Showwand](https://github.com/nomandhoni-cs/Showwand) - A magical Browser extension, which directly post, delete in your Showwcase thread.
@@ -889,7 +890,6 @@
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
 - [derv82/wifite2](https://github.com/derv82/wifite2) - Rewrite of the popular wireless network auditor, "wifite"
 - [openvpi/audio-slicer](https://github.com/openvpi/audio-slicer) - Python script that slices audio with silence detection
-- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [karpathy/ulogme](https://github.com/karpathy/ulogme) - Automatically collect and visualize usage statistics in Ubuntu/OSX environments.
 - [zenithexpo/iblink](https://github.com/zenithexpo/iblink) - iBlink (Eye blink reminder): An Application to help you remind to blink and protect your eyes!
 - [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
@@ -1246,6 +1246,7 @@
 
 ## tailwindcss 
 
+- [odestry/dawn-with-tailwind](https://github.com/odestry/dawn-with-tailwind) - Dawn Shopify reference theme setup with Tailwind CSS and Vite. Password: odestry
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [ariflogs/RetroUI](https://github.com/ariflogs/RetroUI) - A retro-styled Tailwind CSS component library for modern web apps.
 - [WebDevStudios/nextjs-wordpress-starter](https://github.com/WebDevStudios/nextjs-wordpress-starter) - A headless starter for WordPress powered by Next.js.
