@@ -56,7 +56,7 @@
 
 ## C# # 
 
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 
 ## C++ 
@@ -188,7 +188,7 @@
 - [learnwithsumit/nodejs-basic-bangla](https://github.com/learnwithsumit/nodejs-basic-bangla) - This repository contains necessary codes and resources that I discuss in my Node.js Tutorial series at Youtube. Playlist link: https://www.youtube.com/watch?v=WC-g0JtEIwM&list=PLHiZ4m8vCp9PHnOIT7gd30P
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [RocketChat/EmbeddedChat](https://github.com/RocketChat/EmbeddedChat) - An easy to use full-stack component  (ReactJS)  embedding Rocket.Chat into your webapp
-- [gis-ops/valhalla-app](https://github.com/gis-ops/valhalla-app) - This is the demo web app running on https://valhalla.openstreetmap.de
+- [nilsnolde/valhalla-app](https://github.com/nilsnolde/valhalla-app) - This is the demo web app running on https://valhalla.openstreetmap.de
 - [tanvirrb/event-app](https://github.com/tanvirrb/event-app) - simple event app
 - [nishant-666/ChatGPT-React](https://github.com/nishant-666/ChatGPT-React) - 
 - [asif-jalil/scroll-carousel](https://github.com/asif-jalil/scroll-carousel) - Scroll carousel, a unique content slider that specially works on window scroll.
@@ -398,7 +398,7 @@
 - [svobik7/next-roots](https://github.com/svobik7/next-roots) - Next.js utility to generate i18n routes in the new APP directory.
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
-- [askorama/orama](https://github.com/askorama/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service!
+- [askorama/orama](https://github.com/askorama/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 - [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Bundling Chrome Extensions can be pretty complex. It doesn't have to be.
 - [doc-han/xtensio](https://github.com/doc-han/xtensio) - Browser Extension development made easy! A framework for building browser extensions
 - [adamint/tlv-vscode](https://github.com/adamint/tlv-vscode) - 
