@@ -140,6 +140,7 @@
 
 ## JavaScript 
 
+- [khankaew/detection-blink](https://github.com/khankaew/detection-blink) - Detection blink eye with Tensorflow Face Landmarks Detection
 - [WebDevStudios/nextjs-wordpress-starter](https://github.com/WebDevStudios/nextjs-wordpress-starter) - A headless starter for WordPress powered by Next.js.
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
@@ -306,6 +307,7 @@
 
 ## Python 
 
+- [mirrory-dev/eyeblink](https://github.com/mirrory-dev/eyeblink) - A lightweight eyeblink detection model for TensorFlow.js.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [r0oth3x49/udemy-dl](https://github.com/r0oth3x49/udemy-dl) - A cross-platform python based utility to download courses from udemy for personal offline use.
 - [Puyodead1/udemy-downloader](https://github.com/Puyodead1/udemy-downloader) - A Udemy downloader that can download courses, with DRM support.
@@ -380,6 +382,7 @@
 
 ## TypeScript 
 
+- [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [codad5/google-task-tauri](https://github.com/codad5/google-task-tauri) - An Unofficial Desktop Client for Google Tasks
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [Logging-Stuff/RetroUI](https://github.com/Logging-Stuff/RetroUI) - A retro-styled UI library for modern web applications.
