@@ -215,7 +215,7 @@
 - [TeamVanced/discord-open-source](https://github.com/TeamVanced/discord-open-source) - List of open source communities living on Discord
 - [TeamVanced/VancedBackend](https://github.com/TeamVanced/VancedBackend) - Various files required by the website and also the backend of the Guide App files
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-- [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. (This is currently not being maintained)
+- [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. (This is currently not being actively maintained)
 
 ## Jupyter Notebook 
 
