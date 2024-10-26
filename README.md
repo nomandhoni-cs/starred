@@ -61,6 +61,7 @@
 
 ## C++ 
 
+- [mamedev/mame](https://github.com/mamedev/mame) - MAME
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
@@ -382,6 +383,7 @@
 
 ## TypeScript 
 
+- [wxt-dev/examples](https://github.com/wxt-dev/examples) - Collection of examples showing you how to use WXT to implement things in web extensions.
 - [mefengl/wxt-starter](https://github.com/mefengl/wxt-starter) - Maybe the best template based on wxt.
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [codad5/google-task-tauri](https://github.com/codad5/google-task-tauri) - An Unofficial Desktop Client for Google Tasks
@@ -445,7 +447,7 @@
 - [mahmodghnaj/chatXo-frontend](https://github.com/mahmodghnaj/chatXo-frontend) - The ChatXo is a Next.js application that allows two users to communicate with each other through real-time chat. It provides features such as friend management, allowing users to add, delete, and sear
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn/ui
+- [udecode/plate](https://github.com/udecode/plate) - A rich-text editor powered by AI
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec
 - [shadcn/next-contentlayer](https://github.com/shadcn/next-contentlayer) - A template with Next.js 13 app dir, Contentlayer, Tailwind CSS and dark mode.
 - [ziaulhoque24/react-rating-star-with-type](https://github.com/ziaulhoque24/react-rating-star-with-type) - This simple react rating star component with typescript support made by Ziaul Hoque Founder of Revuers.com
