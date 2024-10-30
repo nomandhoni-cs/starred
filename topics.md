@@ -887,6 +887,9 @@
 
 ## others 
 
+- [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
+- [actions/setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
+- [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [electron/build-tools](https://github.com/electron/build-tools) - The GN scripts to use for Electron dev-flows
 - [wxt-dev/examples](https://github.com/wxt-dev/examples) - Collection of examples showing you how to use WXT to implement things in web extensions.
 - [mamedev/mame](https://github.com/mamedev/mame) - MAME
