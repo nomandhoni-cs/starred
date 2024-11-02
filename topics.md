@@ -594,7 +594,6 @@
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [nomandhoni-cs/blink-eye](https://github.com/nomandhoni-cs/blink-eye) - Blink Eye: A minimalist eye care reminder app to reduce eye strain, featuring customizable timers :soon: , full-screen popups, audio mute :soon:.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
-- [devsonket/devsonket.github.io](https://github.com/devsonket/devsonket.github.io) - 🎨🛠📌 সম্পূর্ণ বাংলায় ডেভেলপার চিটশিট 🎨🛠📌
 - [NoobMahbub/starfall-animation](https://github.com/NoobMahbub/starfall-animation) - A simple animation package like popular image editor Canva's starfall animation. Usable in HTML, VanillaJS, React and Typescript Projects.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [mrinc/F-B-Hide-Recommendations-and-Reels](https://github.com/mrinc/F-B-Hide-Recommendations-and-Reels) - This google chrome extension hides Reels and recommendations on Facebook
@@ -937,6 +936,7 @@
 - [supahfunk/webgl-carousel](https://github.com/supahfunk/webgl-carousel) - Created with CodeSandbox
 - [jln13x/ui.jln.dev](https://github.com/jln13x/ui.jln.dev) - 10000+ Themes for shadcn/ui.
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
+- [devsonket/devsonket.github.io](https://github.com/devsonket/devsonket.github.io) - 🎨🛠📌 সম্পূর্ণ বাংলায় ডেভেলপার চিটশিট 🎨🛠📌
 - [camicroscope/caMicroscope](https://github.com/camicroscope/caMicroscope) - Digital pathology image viewer with support for human/machine generated annotations and markups.
 - [gijsdev/ublock-hide-yt-shorts](https://github.com/gijsdev/ublock-hide-yt-shorts) - uBlock Origin filter list to hide YouTube Shorts
 - [nomandhoni-cs/useReducer](https://github.com/nomandhoni-cs/useReducer) - This is Recap of following react docs for practicing useReducer Hook
@@ -1097,6 +1097,7 @@
 
 ## react 
 
+- [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [WebDevStudios/nextjs-wordpress-starter](https://github.com/WebDevStudios/nextjs-wordpress-starter) - A headless starter for WordPress powered by Next.js.
 - [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Framework
