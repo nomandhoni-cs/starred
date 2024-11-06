@@ -140,6 +140,7 @@
 
 ## JavaScript 
 
+- [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
 - [samuelmeuli/action-electron-builder](https://github.com/samuelmeuli/action-electron-builder) - :electron: GitHub Action for building and releasing Electron apps
 - [electron/build-tools](https://github.com/electron/build-tools) - The GN scripts to use for Electron dev-flows
 - [khankaew/detection-blink](https://github.com/khankaew/detection-blink) - Detection blink eye with Tensorflow Face Landmarks Detection
@@ -244,6 +245,7 @@
 ## MDX 
 
 - [denniskigen/o3-docs](https://github.com/denniskigen/o3-docs) - Documentation site for O3, the frontend framework for OpenMRS.
+- [trytriplex/triplex](https://github.com/trytriplex/triplex) - The visual IDE for the web.
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
 - [leerob/site](https://github.com/leerob/site) - My site built with Next.js, Tailwind, and Vercel.
 - [vercel/swr-site](https://github.com/vercel/swr-site) - The official website for SWR.
@@ -351,6 +353,7 @@
 
 ## Rust 
 
+- [amrbashir/wifi-qr](https://github.com/amrbashir/wifi-qr) - A small Windows utiliy to show a QR code for the stored WiFi connections.
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
 - [CrossCopy/tauri-plugin-clipboard](https://github.com/CrossCopy/tauri-plugin-clipboard) - A Tauri clipboard plugin with text, files, html, RTF, and image support. Clipboard content update monitoring is also supported.
 - [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace) - All of the official Tauri plugins in one place!
@@ -424,7 +427,6 @@
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
 - [nomandhoni-cs/blink-eye](https://github.com/nomandhoni-cs/blink-eye) - Blink Eye: A minimalist eye care reminder app to reduce eye strain, featuring customizable timers :soon: , full-screen popups, audio mute :soon:.
-- [trytriplex/triplex](https://github.com/trytriplex/triplex) - The visual IDE for the web.
 - [jln13x/ui.jln.dev](https://github.com/jln13x/ui.jln.dev) - 10000+ Themes for shadcn/ui.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
