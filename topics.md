@@ -591,7 +591,6 @@
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [nomandhoni-cs/Showwand](https://github.com/nomandhoni-cs/Showwand) - A magical Browser extension, which directly post, delete in your Showwcase thread.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [nomandhoni-cs/blink-eye](https://github.com/nomandhoni-cs/blink-eye) - Blink Eye: A minimalist eye care reminder app to reduce eye strain, featuring customizable timers :soon: , full-screen popups, audio mute :soon:.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 - [NoobMahbub/starfall-animation](https://github.com/NoobMahbub/starfall-animation) - A simple animation package like popular image editor Canva's starfall animation. Usable in HTML, VanillaJS, React and Typescript Projects.
@@ -891,6 +890,8 @@
 
 ## others 
 
+- [jakobwesthoff/retropulse](https://github.com/jakobwesthoff/retropulse) - A menubar modplayer app written in rust using libopenmpt and tauri
+- [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 250kb Android launcher
 - [amrbashir/wifi-qr](https://github.com/amrbashir/wifi-qr) - A small Windows utiliy to show a QR code for the stored WiFi connections.
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [actions/setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
