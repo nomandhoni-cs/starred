@@ -318,6 +318,7 @@
 
 ## Python 
 
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [mirrory-dev/eyeblink](https://github.com/mirrory-dev/eyeblink) - A lightweight eyeblink detection model for TensorFlow.js.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [r0oth3x49/udemy-dl](https://github.com/r0oth3x49/udemy-dl) - A cross-platform python based utility to download courses from udemy for personal offline use.
@@ -434,7 +435,7 @@
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
-- [nomandhoni-cs/blink-eye](https://github.com/nomandhoni-cs/blink-eye) - Blink Eye: A minimalist eye care reminder app to reduce eye strain, featuring customizable timers :soon: , full-screen popups, audio mute :soon:.
+- [nomandhoni-cs/blink-eye](https://github.com/nomandhoni-cs/blink-eye) - Blink Eye: A minimalist eye care reminder app for Windows, macOS, and Linux, to reduce eye strain, featuring customizable timers, full-screen popups, audio mute :soon:.
 - [jln13x/ui.jln.dev](https://github.com/jln13x/ui.jln.dev) - 10000+ Themes for shadcn/ui.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
