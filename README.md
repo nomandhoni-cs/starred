@@ -361,6 +361,7 @@
 
 ## Rust 
 
+- [pevers/tauri-plugin-nosleep](https://github.com/pevers/tauri-plugin-nosleep) - Tauri plugin to block the power save functionality in the OS
 - [Borber/Tran](https://github.com/Borber/Tran) - 简洁, 快速, 划词翻译
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
 - [jakobwesthoff/retropulse](https://github.com/jakobwesthoff/retropulse) - A menubar modplayer app written in rust using libopenmpt and tauri
