@@ -934,6 +934,7 @@
 
 ## others 
 
+- [nomandhoni-cs/MyLocalAI](https://github.com/nomandhoni-cs/MyLocalAI) - 
 - [pevers/tauri-plugin-nosleep](https://github.com/pevers/tauri-plugin-nosleep) - Tauri plugin to block the power save functionality in the OS
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 - [h4h13/paisa-app](https://github.com/h4h13/paisa-app) - Paisa app release and bugs maintain
