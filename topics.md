@@ -98,6 +98,7 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
+- [material-design](#material-design)
 - [microsoft](#microsoft)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
@@ -167,6 +168,7 @@
 
 ## ai 
 
+- [nomandhoni-cs/MyLocalAI](https://github.com/nomandhoni-cs/MyLocalAI) - AI-Powered Productivity at Your Fingertips—Secure, Efficient, and Local.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [C0untFloyd/roop-unleashed](https://github.com/C0untFloyd/roop-unleashed) - Evolved Fork of roop with Web Server and lots of additions
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
@@ -187,6 +189,7 @@
 
 ## android 
 
+- [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [Lucchetto/SuperImage](https://github.com/Lucchetto/SuperImage) - Sharpen your low-resolution pictures with the power of AI upscaling
 - [DroidWorksStudio/EasyLauncher](https://github.com/DroidWorksStudio/EasyLauncher) - EasyLauncher - Minimal and Clutter Free Android launcher
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
@@ -740,6 +743,7 @@
 
 ## kotlin 
 
+- [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [DroidWorksStudio/EasyLauncher](https://github.com/DroidWorksStudio/EasyLauncher) - EasyLauncher - Minimal and Clutter Free Android launcher
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
@@ -818,6 +822,10 @@
 
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
+
+## material-design 
+
+- [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 
 ## microsoft 
 
@@ -934,7 +942,6 @@
 
 ## others 
 
-- [nomandhoni-cs/MyLocalAI](https://github.com/nomandhoni-cs/MyLocalAI) - 
 - [pevers/tauri-plugin-nosleep](https://github.com/pevers/tauri-plugin-nosleep) - Tauri plugin to block the power save functionality in the OS
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 - [h4h13/paisa-app](https://github.com/h4h13/paisa-app) - Paisa app release and bugs maintain
@@ -1103,6 +1110,7 @@
 
 ## privacy 
 
+- [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada apps.
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
@@ -1279,6 +1287,7 @@
 
 ## security 
 
+- [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada apps.
