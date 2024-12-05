@@ -233,6 +233,7 @@
 
 ## Kotlin 
 
+- [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [Lucchetto/SuperImage](https://github.com/Lucchetto/SuperImage) - Sharpen your low-resolution pictures with the power of AI upscaling
 - [DroidWorksStudio/EasyLauncher](https://github.com/DroidWorksStudio/EasyLauncher) - EasyLauncher - Minimal and Clutter Free Android launcher
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
@@ -402,7 +403,7 @@
 
 ## TypeScript 
 
-- [nomandhoni-cs/MyLocalAI](https://github.com/nomandhoni-cs/MyLocalAI) - 
+- [nomandhoni-cs/MyLocalAI](https://github.com/nomandhoni-cs/MyLocalAI) - AI-Powered Productivity at Your Fingertips—Secure, Efficient, and Local.
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [MomenSherif/react-oauth](https://github.com/MomenSherif/react-oauth) - Google OAuth2 using the new Google Identity Services SDK for React 🚀
