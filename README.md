@@ -250,6 +250,7 @@
 
 ## MDX 
 
+- [PxlSyl/tailwind-nextjs-starter-blog-i18n](https://github.com/PxlSyl/tailwind-nextjs-starter-blog-i18n) - This is a Next.js, i18n and Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizabl
 - [denniskigen/o3-docs](https://github.com/denniskigen/o3-docs) - Documentation site for O3, the frontend framework for OpenMRS.
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
 - [leerob/site](https://github.com/leerob/site) - My site built with Next.js, Tailwind, and Vercel.
