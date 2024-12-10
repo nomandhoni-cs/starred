@@ -260,6 +260,7 @@
 
 ## Others 
 
+- [phmullins/awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 - [agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) - 🍎 🖥 🎆 A curated list of screensavers for Mac OS X
 - [h4h13/paisa-app](https://github.com/h4h13/paisa-app) - Paisa app release and bugs maintain
 - [builtbybel/CloneApp](https://github.com/builtbybel/CloneApp) - 📦Easily Backup & Restore Windows Programs Settings
