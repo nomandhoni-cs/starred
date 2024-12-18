@@ -30,6 +30,7 @@
 - [clash](#clash)
 - [cli](#cli)
 - [clojure](#clojure)
+- [code](#code)
 - [coding](#coding)
 - [computer-science](#computer-science)
 - [continuous-integration](#continuous-integration)
@@ -170,6 +171,7 @@
 
 ## ai 
 
+- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly (con)text to paste into any LLM
 - [nomandhoni-cs/MyLocalAI](https://github.com/nomandhoni-cs/MyLocalAI) - AI-Powered Productivity at Your Fingertips—Secure, Efficient, and Local.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [C0untFloyd/roop-unleashed](https://github.com/C0untFloyd/roop-unleashed) - Evolved Fork of roop with Web Server and lots of additions
@@ -374,6 +376,10 @@
 ## clojure 
 
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+
+## code 
+
+- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly (con)text to paste into any LLM
 
 ## coding 
 
@@ -957,6 +963,7 @@
 
 ## others 
 
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [nomandhoni-cs/QuickPeek](https://github.com/nomandhoni-cs/QuickPeek) - Spotlight and Alfred like Search for Browsers. Shortcut [CTRL +M]
 - [nomandhoni-cs/FB-QuickStory](https://github.com/nomandhoni-cs/FB-QuickStory) - Post Video Stories on Facebook for Desktop
 - [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
