@@ -188,7 +188,7 @@
 - [satendra02/react-chrome-extension](https://github.com/satendra02/react-chrome-extension) - chrome extension boilerplate with ReactJs using inject page strategy
 - [neetcode-gh/leetcode](https://github.com/neetcode-gh/leetcode) - Leetcode solutions
 - [liriliri/chii](https://github.com/liriliri/chii) - Remote debugging tool
-- [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Personal portfolio website simulating Ubuntu 20.04, made using NEXT.js & tailwind CSS
+- [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Web simulation of Ubuntu 20.04, made using NEXT.js & tailwind CSS
 - [yashitanamdeo/yashitanamdeo.github.io](https://github.com/yashitanamdeo/yashitanamdeo.github.io) - My Personal Portfolio Website - V1
 - [a-trost/fableton](https://github.com/a-trost/fableton) - Little demo site showing off the youtube embed
 - [Sourav9063/ftp-nextron](https://github.com/Sourav9063/ftp-nextron) - 
