@@ -968,6 +968,7 @@
 
 ## others 
 
+- [microsoft/vscode-generator-code](https://github.com/microsoft/vscode-generator-code) - Visual Studio Code extension generator
 - [jamiebuilds/tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) - A Tailwind CSS plugin for creating beautiful animations
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [nomandhoni-cs/QuickPeek](https://github.com/nomandhoni-cs/QuickPeek) - Spotlight and Alfred like Search for Browsers. Shortcut [CTRL +M]
