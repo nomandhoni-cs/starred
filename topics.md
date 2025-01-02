@@ -1085,7 +1085,7 @@
 - [nrnb/GoogleSummerOfCode](https://github.com/nrnb/GoogleSummerOfCode) - Main documentation site for NRNB GSoC project ideas and resources
 - [tanvirrb/event-app](https://github.com/tanvirrb/event-app) - simple event app
 - [cBioPortal/GSoC](https://github.com/cBioPortal/GSoC) - Documentation repository of Google Summer of Code (GSoC) project ideas for cBioPortal and related projects
-- [neutralinojs/gsoc2024](https://github.com/neutralinojs/gsoc2024) - Google Summer of Code 2024 ideas - Neutralinojs
+- [neutralinojs/gsoc2025](https://github.com/neutralinojs/gsoc2025) - Google Summer of Code 2025 ideas - Neutralinojs
 - [nishant-666/ChatGPT-React](https://github.com/nishant-666/ChatGPT-React) - 
 - [bilalelidrissi171/sheets-downloader](https://github.com/bilalelidrissi171/sheets-downloader) - I came up with using Python. It can fetch data from Google Sheets, Excel, or a CSV file and download the file by using the link in one cell and naming it based on the name in another cell. This makes 
 - [mahmudulhasancsedu5/Algorithms](https://github.com/mahmudulhasancsedu5/Algorithms) - 
