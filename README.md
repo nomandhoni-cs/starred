@@ -414,6 +414,7 @@
 
 ## TypeScript 
 
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
 - [nomandhoni-cs/QuickPeek](https://github.com/nomandhoni-cs/QuickPeek) - Spotlight and Alfred like Search for Browsers. Shortcut [CTRL +M]
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [nomandhoni-cs/FB-QuickStory](https://github.com/nomandhoni-cs/FB-QuickStory) - Post Video Stories on Facebook for Desktop
