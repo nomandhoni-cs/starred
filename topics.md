@@ -618,7 +618,7 @@
 ## google 
 
 - [MomenSherif/react-oauth](https://github.com/MomenSherif/react-oauth) - Google OAuth2 using the new Google Identity Services SDK for React 🚀
-- [codad5/google-task-tauri](https://github.com/codad5/google-task-tauri) - An Unofficial Desktop Client for Google Tasks
+- [codad5/google-task-desktop](https://github.com/codad5/google-task-desktop) - An Unofficial Desktop Client for Google Tasks
 - [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api) - A free and unlimited API for Google Translate :dollar::no_entry_sign:
 - [imranpollob/google-colab-torrent-downloader](https://github.com/imranpollob/google-colab-torrent-downloader) - Download torrent using google colab
 
