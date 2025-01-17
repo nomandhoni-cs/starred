@@ -414,6 +414,7 @@
 
 ## TypeScript 
 
+- [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
 - [nomandhoni-cs/QuickPeek](https://github.com/nomandhoni-cs/QuickPeek) - Spotlight and Alfred like Search for Browsers. Shortcut [CTRL +M]
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
