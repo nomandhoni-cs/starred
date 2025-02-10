@@ -998,6 +998,7 @@
 
 ## others 
 
+- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [omicronlab/Avro-Keyboard](https://github.com/omicronlab/Avro-Keyboard) - Unicode compliant open source Bangla typing software for Windows
 - [mugli/Avro-Keyboard](https://github.com/mugli/Avro-Keyboard) - Unicode compliant native Bangla/Bengali Input Method Editor (IME) for Windows
 - [RoundedTB/RoundedTB](https://github.com/RoundedTB/RoundedTB) - Add margins, rounded corners and segments to your taskbars!
