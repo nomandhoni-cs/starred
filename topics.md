@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [3d](#3d)
 - [ai](#ai)
 - [algorithm](#algorithm)
 - [analytics](#analytics)
@@ -168,10 +167,6 @@
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [zig](#zig)
-
-## 3d 
-
-- [trytriplex/triplex](https://github.com/trytriplex/triplex) - The visual development environment for React / Three Fiber.
 
 ## ai 
 
@@ -1261,7 +1256,6 @@
 - [guilhermerodz/input-otp](https://github.com/guilhermerodz/input-otp) - One time passcode Input. Accessible & unstyled.
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
-- [trytriplex/triplex](https://github.com/trytriplex/triplex) - The visual development environment for React / Three Fiber.
 - [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
 - [KaziMahbuburRahman/starfall-animation](https://github.com/KaziMahbuburRahman/starfall-animation) - A simple animation package like popular image editor Canva's starfall animation. Usable in HTML, VanillaJS, React and Typescript Projects.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
@@ -1315,6 +1309,7 @@
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 15 with App Router and Page Router support, Tailwind CSS 4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Dr
 - [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
 - [doc-han/xtensio](https://github.com/doc-han/xtensio) - Browser Extension development made easy! A framework for building browser extensions
+- [trytriplex/triplex](https://github.com/trytriplex/triplex) - The visual development environment for React / Three Fiber.
 - [justin-chu/react-fast-marquee](https://github.com/justin-chu/react-fast-marquee) - A lightweight React component that harnesses the power of CSS animations to create silky smooth marquees.
 - [satendra02/react-chrome-extension](https://github.com/satendra02/react-chrome-extension) - chrome extension boilerplate with ReactJs using inject page strategy
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
@@ -1528,6 +1523,7 @@
 ## visual-studio-code 
 
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
+- [trytriplex/triplex](https://github.com/trytriplex/triplex) - The visual development environment for React / Three Fiber.
 
 ## vpn 
 
@@ -1547,7 +1543,6 @@
 ## web 
 
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
-- [trytriplex/triplex](https://github.com/trytriplex/triplex) - The visual development environment for React / Three Fiber.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 
 ## web-development 
