@@ -655,12 +655,10 @@
 - [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Framework
 - [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace) - All of the official Tauri plugins in one place!
 - [muhammadhafijur/image-blender](https://github.com/muhammadhafijur/image-blender) - The open-source Image Blending Tool for transforming your images with powerful effects. Upload, customize, and download your visuals instantly, and easily copy the generated Tailwind CSS code.
-- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [nomandhoni-cs/Showwand](https://github.com/nomandhoni-cs/Showwand) - A magical Browser extension, which directly post, delete in your Showwcase thread.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- [nomandhoni-cs/blink-eye](https://github.com/nomandhoni-cs/blink-eye) - Blink Eye: A minimalist eye care reminder app for Windows, macOS, and Linux, to reduce eye strain, featuring customizable timers, full-screen popups, audio mute :soon:.
 - [KaziMahbuburRahman/starfall-animation](https://github.com/KaziMahbuburRahman/starfall-animation) - A simple animation package like popular image editor Canva's starfall animation. Usable in HTML, VanillaJS, React and Typescript Projects.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [mrinc/F-B-Hide-Recommendations-and-Reels](https://github.com/mrinc/F-B-Hide-Recommendations-and-Reels) - This google chrome extension hides Reels and recommendations on Facebook
@@ -811,7 +809,7 @@
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
 - [chilikasha/tinytools](https://github.com/chilikasha/tinytools) - Collection of useful, simple, single purpose apps and tools for everyday tasks.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [nomandhoni-cs/blink-eye](https://github.com/nomandhoni-cs/blink-eye) - Blink Eye: A minimalist eye care reminder app for Windows, macOS, and Linux, to reduce eye strain, featuring customizable timers, full-screen popups, audio mute :soon:.
+- [nomandhoni-cs/blink-eye](https://github.com/nomandhoni-cs/blink-eye) - A minimalist Eye Care & Break Reminder app for Windows, macOS, and Linux. Prevents eye strain, RSI, and CVS with customizable timers, full-screen break notifications, Daily Usage analytics, and built-
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
@@ -833,7 +831,7 @@
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [nomandhoni-cs/blink-eye](https://github.com/nomandhoni-cs/blink-eye) - Blink Eye: A minimalist eye care reminder app for Windows, macOS, and Linux, to reduce eye strain, featuring customizable timers, full-screen popups, audio mute :soon:.
+- [nomandhoni-cs/blink-eye](https://github.com/nomandhoni-cs/blink-eye) - A minimalist Eye Care & Break Reminder app for Windows, macOS, and Linux. Prevents eye strain, RSI, and CVS with customizable timers, full-screen break notifications, Daily Usage analytics, and built-
 
 ## machine-learning 
 
@@ -853,7 +851,7 @@
 - [chilikasha/tinytools](https://github.com/chilikasha/tinytools) - Collection of useful, simple, single purpose apps and tools for everyday tasks.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [nomandhoni-cs/blink-eye](https://github.com/nomandhoni-cs/blink-eye) - Blink Eye: A minimalist eye care reminder app for Windows, macOS, and Linux, to reduce eye strain, featuring customizable timers, full-screen popups, audio mute :soon:.
+- [nomandhoni-cs/blink-eye](https://github.com/nomandhoni-cs/blink-eye) - A minimalist Eye Care & Break Reminder app for Windows, macOS, and Linux. Prevents eye strain, RSI, and CVS with customizable timers, full-screen break notifications, Daily Usage analytics, and built-
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
 - [zulip/zulip-desktop](https://github.com/zulip/zulip-desktop) - Zulip Desktop client for Mac, Windows and Linux.
@@ -1568,7 +1566,7 @@
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
-- [nomandhoni-cs/blink-eye](https://github.com/nomandhoni-cs/blink-eye) - Blink Eye: A minimalist eye care reminder app for Windows, macOS, and Linux, to reduce eye strain, featuring customizable timers, full-screen popups, audio mute :soon:.
+- [nomandhoni-cs/blink-eye](https://github.com/nomandhoni-cs/blink-eye) - A minimalist Eye Care & Break Reminder app for Windows, macOS, and Linux. Prevents eye strain, RSI, and CVS with customizable timers, full-screen break notifications, Daily Usage analytics, and built-
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [Alex313031/Thorium-Win](https://github.com/Alex313031/Thorium-Win) - Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
