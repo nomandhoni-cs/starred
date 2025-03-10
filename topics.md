@@ -420,6 +420,7 @@
 
 ## css 
 
+- [akashraj9828/svg-text-animation-generator](https://github.com/akashraj9828/svg-text-animation-generator) - A pure CSS SVG text animation generator with any google fonts.
 - [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
 - [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
