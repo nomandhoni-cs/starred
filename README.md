@@ -155,6 +155,7 @@
 
 ## JavaScript 
 
+- [akashraj9828/svg-text-animation-generator](https://github.com/akashraj9828/svg-text-animation-generator) - A pure CSS SVG text animation generator with any google fonts.
 - [colbyfayock/next-wordpress-starter](https://github.com/colbyfayock/next-wordpress-starter) - 📝 Bring WordPress to the static world with Next.js
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
