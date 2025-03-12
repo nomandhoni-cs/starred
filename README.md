@@ -436,6 +436,7 @@
 
 ## TypeScript 
 
+- [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [agmmnn/tauri-controls](https://github.com/agmmnn/tauri-controls) - 🚥 Native-looking window controls for Tauri 2. React, Solid, Vue, Svelte+Tailwind.
 - [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
