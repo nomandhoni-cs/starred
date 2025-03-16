@@ -128,7 +128,6 @@
 - [studioprisoner/photo-stream](https://github.com/studioprisoner/photo-stream) - Self-hosted, super simple photo stream
 - [kevin-powell/reponsive-web-design-bootcamp](https://github.com/kevin-powell/reponsive-web-design-bootcamp) - Course files for the Responsive Web Design Bootcamp: [https://scrimba.com/course/gresponsive/]
 - [javichur/blur-background-webcam-without-green-chroma](https://github.com/javichur/blur-background-webcam-without-green-chroma) - Free solution to put background blur on your webcam without using chroma. Designed for OBS Studio and others apps.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [shree998/Campus-Expert](https://github.com/shree998/Campus-Expert) - Learn to build technical communities on your campus,
 - [Maclinz/JS_CSS_PortfolioProject](https://github.com/Maclinz/JS_CSS_PortfolioProject) - 
 - [khan4019/angular-interview-questions](https://github.com/khan4019/angular-interview-questions) - Most extensive Angular interview questions based on your level.
@@ -213,6 +212,7 @@
 - [googleworkspace/apps-script-samples](https://github.com/googleworkspace/apps-script-samples) - Apps Script samples for Google Workspace products.
 - [learnwithsumit/nodejs-basic-bangla](https://github.com/learnwithsumit/nodejs-basic-bangla) - This repository contains necessary codes and resources that I discuss in my Node.js Tutorial series at Youtube. Playlist link: https://www.youtube.com/watch?v=WC-g0JtEIwM&list=PLHiZ4m8vCp9PHnOIT7gd30P
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [RocketChat/EmbeddedChat](https://github.com/RocketChat/EmbeddedChat) - An easy to use full-stack component  (ReactJS)  embedding Rocket.Chat into your webapp
 - [nilsnolde/valhalla-app](https://github.com/nilsnolde/valhalla-app) - This is the demo web app running on https://valhalla.openstreetmap.de
 - [tanvirrb/event-app](https://github.com/tanvirrb/event-app) - simple event app
