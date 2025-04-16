@@ -161,6 +161,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui-design](#ui-design)
 - [visual-studio-code](#visual-studio-code)
 - [vpn](#vpn)
 - [vue](#vue)
@@ -1561,6 +1562,12 @@
 ## ubuntu 
 
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
+
+## ui-design 
+
+- [olovajs/olova](https://github.com/olovajs/olova) - A smooth, minimal library for infusing JavaScript with dynamic behaviour
+- [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 
 ## visual-studio-code 
 
