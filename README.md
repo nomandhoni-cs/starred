@@ -71,7 +71,6 @@
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 - [hedge-dev/UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) - An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.
 - [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 - [mamedev/mame](https://github.com/mamedev/mame) - MAME
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
@@ -130,7 +129,6 @@
 - [studioprisoner/photo-stream](https://github.com/studioprisoner/photo-stream) - Self-hosted, super simple photo stream
 - [kevin-powell/reponsive-web-design-bootcamp](https://github.com/kevin-powell/reponsive-web-design-bootcamp) - Course files for the Responsive Web Design Bootcamp: [https://scrimba.com/course/gresponsive/]
 - [javichur/blur-background-webcam-without-green-chroma](https://github.com/javichur/blur-background-webcam-without-green-chroma) - Free solution to put background blur on your webcam without using chroma. Designed for OBS Studio and others apps.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [shree998/Campus-Expert](https://github.com/shree998/Campus-Expert) - Learn to build technical communities on your campus,
 - [Maclinz/JS_CSS_PortfolioProject](https://github.com/Maclinz/JS_CSS_PortfolioProject) - 
 - [khan4019/angular-interview-questions](https://github.com/khan4019/angular-interview-questions) - Most extensive Angular interview questions based on your level.
@@ -213,6 +211,7 @@
 - [googleworkspace/apps-script-samples](https://github.com/googleworkspace/apps-script-samples) - Apps Script samples for Google Workspace products.
 - [learnwithsumit/nodejs-basic-bangla](https://github.com/learnwithsumit/nodejs-basic-bangla) - This repository contains necessary codes and resources that I discuss in my Node.js Tutorial series at Youtube. Playlist link: https://www.youtube.com/watch?v=WC-g0JtEIwM&list=PLHiZ4m8vCp9PHnOIT7gd30P
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [RocketChat/EmbeddedChat](https://github.com/RocketChat/EmbeddedChat) - An easy to use full-stack component  (ReactJS)  embedding Rocket.Chat into your webapp
 - [nilsnolde/valhalla-app](https://github.com/nilsnolde/valhalla-app) - This is the demo web app running on https://valhalla.openstreetmap.de
 - [tanvirrb/event-app](https://github.com/tanvirrb/event-app) - simple event app
@@ -501,7 +500,7 @@
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
 - [nomandhoni-cs/blink-eye](https://github.com/nomandhoni-cs/blink-eye) - A minimalist Eye Care & Break Reminder app for Windows, macOS, and Linux. Prevents eye strain, RSI, and CVS with customizable timers, full-screen break notifications, Daily Usage analytics, and built-
-- [trytriplex/triplex](https://github.com/trytriplex/triplex) - Build the 2D and 3D web without coding. Your visual workspace for React / Three Fiber.
+- [trytriplex/triplex](https://github.com/trytriplex/triplex) - Build the 2D and 3D web. Your visual workspace for React / Three Fiber.
 - [jln13x/ui.jln.dev](https://github.com/jln13x/ui.jln.dev) - 10000+ Themes for shadcn/ui.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
