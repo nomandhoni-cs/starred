@@ -1034,6 +1034,7 @@
 
 ## others 
 
+- [firecmsco/neat](https://github.com/firecmsco/neat) - Neat allows you to build awesome gradients for your website, using 3d shaders
 - [abuansarpatowary/Reels-Sound-Controller](https://github.com/abuansarpatowary/Reels-Sound-Controller) - Mute, unmute, and adjust Facebook Reels volume like a pro.
 - [shahmedme/minder](https://github.com/shahmedme/minder) - Online banking system made with Express.js, EJS, MySQL
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
