@@ -1172,7 +1172,6 @@
 - [mahmudulhasancsedu5/Algorithms](https://github.com/mahmudulhasancsedu5/Algorithms) - 
 - [moalamri/vscode-inline-fold](https://github.com/moalamri/vscode-inline-fold) - A custom decorator that "fold" matching content in single line
 - [maxboeck/mxb](https://github.com/maxboeck/mxb) - Personal Website built with Eleventy
-- [aboutcode-org/aboutcode](https://github.com/aboutcode-org/aboutcode) - AboutCode project: tools and data to uncover things about code: the provenance, origin, license, and more (packages, security, quality, etc.) of FOSS code
 - [noorjsdivs/fakedata](https://github.com/noorjsdivs/fakedata) - 
 - [ShanjinurIslam/Dhaka-Stock-Exchange](https://github.com/ShanjinurIslam/Dhaka-Stock-Exchange) - This repository provides apis of real time price, market and basic details of company and price, volume and total trade data in json format
 - [Toxic-Noob/ToxicBomber](https://github.com/Toxic-Noob/ToxicBomber) - A Powerful SMS Bomber Tool For Bangladesh.
@@ -1429,6 +1428,7 @@
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada apps.
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
+- [aboutcode-org/aboutcode](https://github.com/aboutcode-org/aboutcode) - AboutCode project: tools and data to uncover things about code: the provenance, origin, license, and more (packages, security, quality, etc.) of FOSS code. Get started at https://aboutcode.readthedocs
 
 ## security-tools 
 
