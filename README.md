@@ -102,6 +102,7 @@
 
 ## Dart 
 
+- [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [namidaco/namida](https://github.com/namidaco/namida) - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
@@ -274,7 +275,7 @@
 
 ## Others 
 
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [errilaz/awesome-js-runtimes](https://github.com/errilaz/awesome-js-runtimes) - A curated list of JavaScript/ECMAScript runtimes, app frameworks, and engines.
 - [omicronlab/Avro-Keyboard](https://github.com/omicronlab/Avro-Keyboard) - Unicode compliant open source Bangla typing software for Windows
 - [vedantmgoyal9/winget-releaser](https://github.com/vedantmgoyal9/winget-releaser) - Publish new releases of your application to the Windows Package Manager easily.
@@ -436,6 +437,7 @@
 
 ## TypeScript 
 
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [firecmsco/neat](https://github.com/firecmsco/neat) - Neat allows you to build awesome gradients for your website, using 3d shaders
 - [abuansarpatowary/Reels-Sound-Controller](https://github.com/abuansarpatowary/Reels-Sound-Controller) - Mute, unmute, and adjust Facebook Reels volume like a pro.
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
