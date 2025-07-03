@@ -1096,7 +1096,7 @@
 - [johndigital/shopify-boilerplate](https://github.com/johndigital/shopify-boilerplate) - Basic boilerplate theme for Shopify using themekit
 - [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
 - [rurza/BatFi](https://github.com/rurza/BatFi) - Battery charging limiter for macOS.
-- [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
+- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
 - [rkkr/simple-keyboard](https://github.com/rkkr/simple-keyboard) - 
 - [JesusFreke/smali](https://github.com/JesusFreke/smali) - smali/baksmali
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
