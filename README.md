@@ -112,7 +112,7 @@
 
 ## Go 
 
-- [sourcenetwork/defradb](https://github.com/sourcenetwork/defradb) - DefraDB is a Peer-to-Peer Edge Database. It's the core data storage system for the Source Network Ecosystem, built with IPLD, LibP2P, CRDTs, and Semantic open web properties.
+- [sourcenetwork/defradb](https://github.com/sourcenetwork/defradb) - DefraDB is a Peer-to-Peer Edge-First Database. It's the core data storage system for the Source Ecosystem, built with IPLD, LibP2P, CRDTs, and Semantic open web properties.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [Shopify/themekit](https://github.com/Shopify/themekit) - Shopify theme development command line tool.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
