@@ -689,7 +689,6 @@
 
 ## hacktoberfest 
 
-- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [colbyfayock/next-wordpress-starter](https://github.com/colbyfayock/next-wordpress-starter) - 📝 Bring WordPress to the static world with Next.js
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
@@ -1138,7 +1137,6 @@
 - [nomandhoni-cs/useReducer](https://github.com/nomandhoni-cs/useReducer) - This is Recap of following react docs for practicing useReducer Hook
 - [nomandhoni-cs/nomandhoni-cs](https://github.com/nomandhoni-cs/nomandhoni-cs) - Hi, My name is Abdullah Al Noman. You can also find me as 'Noman Dhoni' in social media and Search Engines.  I am currently doing my Bachelors in Computer Science and Engineering.  I have knowledge in
 - [Asfak00/DSA-learning](https://github.com/Asfak00/DSA-learning) - It is a document repository. I'm learning DSA so I created this repository to note down all the things, that might benefit many others. In this repository, I have tried to cover all the important topi
-- [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img) - 
 - [planetarian/TamperMonkey-Scripts](https://github.com/planetarian/TamperMonkey-Scripts) - Small collection of handy TamperMonkey scripts.
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
