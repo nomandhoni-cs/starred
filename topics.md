@@ -854,6 +854,7 @@
 
 ## linux 
 
+- [nomandhoni-cs/tauri-nextjs-shadcn-boilerplate](https://github.com/nomandhoni-cs/tauri-nextjs-shadcn-boilerplate) - A modern cross-platform desktop app boilerplate using Tauri, Next.js, Tailwind CSS, Shadcn UI, and Bun with GitHub Actions CI for macOS, Windows, and Linux. Fast, themeable, and production-ready.
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
@@ -894,6 +895,7 @@
 
 ## macos 
 
+- [nomandhoni-cs/tauri-nextjs-shadcn-boilerplate](https://github.com/nomandhoni-cs/tauri-nextjs-shadcn-boilerplate) - A modern cross-platform desktop app boilerplate using Tauri, Next.js, Tailwind CSS, Shadcn UI, and Bun with GitHub Actions CI for macOS, Windows, and Linux. Fast, themeable, and production-ready.
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [agmmnn/tauri-controls](https://github.com/agmmnn/tauri-controls) - 🚥 Native-looking window controls for Tauri 2. React, Solid, Vue, Svelte+Tailwind.
@@ -948,6 +950,7 @@
 
 ## nextjs 
 
+- [nomandhoni-cs/tauri-nextjs-shadcn-boilerplate](https://github.com/nomandhoni-cs/tauri-nextjs-shadcn-boilerplate) - A modern cross-platform desktop app boilerplate using Tauri, Next.js, Tailwind CSS, Shadcn UI, and Bun with GitHub Actions CI for macOS, Windows, and Linux. Fast, themeable, and production-ready.
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [colbyfayock/next-wordpress-starter](https://github.com/colbyfayock/next-wordpress-starter) - 📝 Bring WordPress to the static world with Next.js
 - [kokonut-labs/kokonutui](https://github.com/kokonut-labs/kokonutui) - Collection of UI components.            Built for Next.js and React with Tailwind CSS and shadcn/ui
@@ -1430,6 +1433,7 @@
 
 ## rust 
 
+- [nomandhoni-cs/tauri-nextjs-shadcn-boilerplate](https://github.com/nomandhoni-cs/tauri-nextjs-shadcn-boilerplate) - A modern cross-platform desktop app boilerplate using Tauri, Next.js, Tailwind CSS, Shadcn UI, and Bun with GitHub Actions CI for macOS, Windows, and Linux. Fast, themeable, and production-ready.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
@@ -1526,6 +1530,7 @@
 
 ## tailwindcss 
 
+- [nomandhoni-cs/tauri-nextjs-shadcn-boilerplate](https://github.com/nomandhoni-cs/tauri-nextjs-shadcn-boilerplate) - A modern cross-platform desktop app boilerplate using Tauri, Next.js, Tailwind CSS, Shadcn UI, and Bun with GitHub Actions CI for macOS, Windows, and Linux. Fast, themeable, and production-ready.
 - [kokonut-labs/kokonutui](https://github.com/kokonut-labs/kokonutui) - Collection of UI components.            Built for Next.js and React with Tailwind CSS and shadcn/ui
 - [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
 - [PxlSyl/tailwind-nextjs-starter-blog-i18n](https://github.com/PxlSyl/tailwind-nextjs-starter-blog-i18n) - This is a Next.js, i18n and Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizabl
@@ -1576,6 +1581,7 @@
 
 ## typescript 
 
+- [nomandhoni-cs/tauri-nextjs-shadcn-boilerplate](https://github.com/nomandhoni-cs/tauri-nextjs-shadcn-boilerplate) - A modern cross-platform desktop app boilerplate using Tauri, Next.js, Tailwind CSS, Shadcn UI, and Bun with GitHub Actions CI for macOS, Windows, and Linux. Fast, themeable, and production-ready.
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
@@ -1662,6 +1668,7 @@
 
 ## windows 
 
+- [nomandhoni-cs/tauri-nextjs-shadcn-boilerplate](https://github.com/nomandhoni-cs/tauri-nextjs-shadcn-boilerplate) - A modern cross-platform desktop app boilerplate using Tauri, Next.js, Tailwind CSS, Shadcn UI, and Bun with GitHub Actions CI for macOS, Windows, and Linux. Fast, themeable, and production-ready.
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [agmmnn/tauri-controls](https://github.com/agmmnn/tauri-controls) - 🚥 Native-looking window controls for Tauri 2. React, Solid, Vue, Svelte+Tailwind.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
