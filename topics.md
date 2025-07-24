@@ -635,7 +635,7 @@
 
 ## gis 
 
-- [nilsnolde/valhalla-app](https://github.com/nilsnolde/valhalla-app) - This is the demo web app running on https://valhalla.openstreetmap.de
+- [valhalla/web-app](https://github.com/valhalla/web-app) - [HELP NEEDED] This is the demo web app running on https://valhalla.openstreetmap.de
 
 ## git 
 
@@ -1026,6 +1026,7 @@
 
 ## npm 
 
+- [metaory/gradient-gl](https://github.com/metaory/gradient-gl) - Tiny WebGL library for Deterministic seed-driven Procedural Gradient Animations
 - [KaziMahbuburRahman/starfall-animation](https://github.com/KaziMahbuburRahman/starfall-animation) - A simple animation package like popular image editor Canva's starfall animation. Usable in HTML, VanillaJS, React and Typescript Projects.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [RocketChat/EmbeddedChat](https://github.com/RocketChat/EmbeddedChat) - An easy to use full-stack component  (ReactJS)  embedding Rocket.Chat into your webapp
@@ -1070,7 +1071,6 @@
 
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [metaory/gradient-gl](https://github.com/metaory/gradient-gl) - Deterministic Procedural WebGL Gradient Animations
 - [firecmsco/neat](https://github.com/firecmsco/neat) - Neat allows you to build awesome gradients for your website, using 3d shaders
 - [abuansarpatowary/Reels-Sound-Controller](https://github.com/abuansarpatowary/Reels-Sound-Controller) - Mute, unmute, and adjust Facebook Reels volume like a pro.
 - [shahmedme/minder](https://github.com/shahmedme/minder) - Online banking system made with Express.js, EJS, MySQL
@@ -1375,7 +1375,7 @@
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
 - [RocketChat/EmbeddedChat](https://github.com/RocketChat/EmbeddedChat) - An easy to use full-stack component  (ReactJS)  embedding Rocket.Chat into your webapp
-- [nilsnolde/valhalla-app](https://github.com/nilsnolde/valhalla-app) - This is the demo web app running on https://valhalla.openstreetmap.de
+- [valhalla/web-app](https://github.com/valhalla/web-app) - [HELP NEEDED] This is the demo web app running on https://valhalla.openstreetmap.de
 - [ecronix/react-most-wanted](https://github.com/ecronix/react-most-wanted) - React starter kit with "Most Wanted" application features
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
