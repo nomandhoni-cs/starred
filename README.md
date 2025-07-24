@@ -159,7 +159,7 @@
 
 ## JavaScript 
 
-- [metaory/gradient-gl](https://github.com/metaory/gradient-gl) - Deterministic Procedural WebGL Gradient Animations
+- [metaory/gradient-gl](https://github.com/metaory/gradient-gl) - Tiny WebGL library for Deterministic seed-driven Procedural Gradient Animations
 - [akashraj9828/svg-text-animation-generator](https://github.com/akashraj9828/svg-text-animation-generator) - A pure CSS SVG text animation generator with any google fonts.
 - [colbyfayock/next-wordpress-starter](https://github.com/colbyfayock/next-wordpress-starter) - 📝 Bring WordPress to the static world with Next.js
 - [microsoft/vscode-generator-code](https://github.com/microsoft/vscode-generator-code) - Visual Studio Code extension generator
@@ -217,7 +217,7 @@
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [RocketChat/EmbeddedChat](https://github.com/RocketChat/EmbeddedChat) - An easy to use full-stack component  (ReactJS)  embedding Rocket.Chat into your webapp
-- [nilsnolde/valhalla-app](https://github.com/nilsnolde/valhalla-app) - This is the demo web app running on https://valhalla.openstreetmap.de
+- [valhalla/web-app](https://github.com/valhalla/web-app) - [HELP NEEDED] This is the demo web app running on https://valhalla.openstreetmap.de
 - [tanvirrb/event-app](https://github.com/tanvirrb/event-app) - simple event app
 - [nishant-666/ChatGPT-React](https://github.com/nishant-666/ChatGPT-React) - 
 - [asif-jalil/scroll-carousel](https://github.com/asif-jalil/scroll-carousel) - Scroll carousel, a unique content slider that specially works on window scroll.
