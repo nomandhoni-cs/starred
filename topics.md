@@ -1081,6 +1081,7 @@
 
 ## others 
 
+- [nomandhoni-cs/react-animated-rolling-counter](https://github.com/nomandhoni-cs/react-animated-rolling-counter) - A lightweight and customizable Swift UI like animated counter component for React.
 - [iris-networks/gpt-agent](https://github.com/iris-networks/gpt-agent) - Fully self hosted chatgpt agent alternative
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
