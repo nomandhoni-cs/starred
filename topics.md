@@ -968,6 +968,7 @@
 
 ## nextjs 
 
+- [seraui/seraui](https://github.com/seraui/seraui) - A helpful UI library for design engineers. Use cool animations and components with just a copy and paste. Free and open source
 - [nomandhoni-cs/tauri-nextjs-shadcn-boilerplate](https://github.com/nomandhoni-cs/tauri-nextjs-shadcn-boilerplate) - A modern cross-platform desktop app boilerplate using Tauri, Next.js, Tailwind CSS, Shadcn UI, and Bun with GitHub Actions CI for macOS, Windows, and Linux. Fast, themeable, and production-ready.
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [colbyfayock/next-wordpress-starter](https://github.com/colbyfayock/next-wordpress-starter) - 📝 Bring WordPress to the static world with Next.js
@@ -1339,6 +1340,7 @@
 
 ## react 
 
+- [seraui/seraui](https://github.com/seraui/seraui) - A helpful UI library for design engineers. Use cool animations and components with just a copy and paste. Free and open source
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [kokonut-labs/kokonutui](https://github.com/kokonut-labs/kokonutui) - Collection of UI components.            Built for Next.js and React with Tailwind CSS and shadcn/ui
@@ -1552,6 +1554,7 @@
 
 ## tailwindcss 
 
+- [seraui/seraui](https://github.com/seraui/seraui) - A helpful UI library for design engineers. Use cool animations and components with just a copy and paste. Free and open source
 - [nomandhoni-cs/tauri-nextjs-shadcn-boilerplate](https://github.com/nomandhoni-cs/tauri-nextjs-shadcn-boilerplate) - A modern cross-platform desktop app boilerplate using Tauri, Next.js, Tailwind CSS, Shadcn UI, and Bun with GitHub Actions CI for macOS, Windows, and Linux. Fast, themeable, and production-ready.
 - [kokonut-labs/kokonutui](https://github.com/kokonut-labs/kokonutui) - Collection of UI components.            Built for Next.js and React with Tailwind CSS and shadcn/ui
 - [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
@@ -1603,6 +1606,7 @@
 
 ## typescript 
 
+- [seraui/seraui](https://github.com/seraui/seraui) - A helpful UI library for design engineers. Use cool animations and components with just a copy and paste. Free and open source
 - [nomandhoni-cs/tauri-nextjs-shadcn-boilerplate](https://github.com/nomandhoni-cs/tauri-nextjs-shadcn-boilerplate) - A modern cross-platform desktop app boilerplate using Tauri, Next.js, Tailwind CSS, Shadcn UI, and Bun with GitHub Actions CI for macOS, Windows, and Linux. Fast, themeable, and production-ready.
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
@@ -1640,6 +1644,7 @@
 
 ## ui 
 
+- [seraui/seraui](https://github.com/seraui/seraui) - A helpful UI library for design engineers. Use cool animations and components with just a copy and paste. Free and open source
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
@@ -1650,6 +1655,7 @@
 
 ## ui-design 
 
+- [seraui/seraui](https://github.com/seraui/seraui) - A helpful UI library for design engineers. Use cool animations and components with just a copy and paste. Free and open source
 - [olovajs/olova](https://github.com/olovajs/olova) - A smooth, minimal library for infusing JavaScript with dynamic behaviour
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
