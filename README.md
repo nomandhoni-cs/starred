@@ -443,6 +443,7 @@
 
 ## TypeScript 
 
+- [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [seraui/seraui](https://github.com/seraui/seraui) - A helpful UI library for design engineers. Use cool animations and components with just a copy and paste. Free and open source
 - [nomandhoni-cs/react-animated-rolling-counter](https://github.com/nomandhoni-cs/react-animated-rolling-counter) - A lightweight and customizable Swift UI like animated counter component for React.
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
