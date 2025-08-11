@@ -387,7 +387,7 @@
 - [mefengl/wxt-starter](https://github.com/mefengl/wxt-starter) - Maybe the best template based on wxt.
 - [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) - BookmarkHub , sync bookmarks across different browsers
 - [nomandhoni-cs/Showwand](https://github.com/nomandhoni-cs/Showwand) - A magical Browser extension, which directly post, delete in your Showwcase thread.
-- [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Bundling Chrome Extensions can be pretty complex. It doesn't have to be.
+- [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Build cross-browser extensions with native HMR and zero-config setup
 - [doc-han/xtensio](https://github.com/doc-han/xtensio) - Browser Extension development made easy! A framework for building browser extensions
 - [mrinc/F-B-Hide-Recommendations-and-Reels](https://github.com/mrinc/F-B-Hide-Recommendations-and-Reels) - This google chrome extension hides Reels and recommendations on Facebook
 - [nomandhoni-cs/Facebook-QuietFeed](https://github.com/nomandhoni-cs/Facebook-QuietFeed) - Facebook QuietFeed: Silence the noise and distractions on your Facebook feed for a more focused browsing experience.
@@ -817,7 +817,7 @@
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 - [nomandhoni-cs/Showwand](https://github.com/nomandhoni-cs/Showwand) - A magical Browser extension, which directly post, delete in your Showwcase thread.
-- [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Bundling Chrome Extensions can be pretty complex. It doesn't have to be.
+- [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Build cross-browser extensions with native HMR and zero-config setup
 - [KaziMahbuburRahman/starfall-animation](https://github.com/KaziMahbuburRahman/starfall-animation) - A simple animation package like popular image editor Canva's starfall animation. Usable in HTML, VanillaJS, React and Typescript Projects.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
@@ -1635,7 +1635,7 @@
 - [MauricioRobayo/nextjs-google-analytics](https://github.com/MauricioRobayo/nextjs-google-analytics) - Google Analytics for Next.js
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
-- [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Bundling Chrome Extensions can be pretty complex. It doesn't have to be.
+- [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Build cross-browser extensions with native HMR and zero-config setup
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
 - [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
