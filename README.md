@@ -235,7 +235,7 @@
 - [ProgrammingHero1/js-internals](https://github.com/ProgrammingHero1/js-internals) - 
 - [ProgrammingHero1/B8-common-js-concepts](https://github.com/ProgrammingHero1/B8-common-js-concepts) - 
 - [ProgrammingHero1/batch6-es6-intro](https://github.com/ProgrammingHero1/batch6-es6-intro) - 
-- [ProgrammingHero1/more-es6](https://github.com/ProgrammingHero1/more-es6) - 
+- [ProgrammingHero1/B6-more-es6](https://github.com/ProgrammingHero1/B6-more-es6) - 
 - [Rob--W/dont-track-me-google](https://github.com/Rob--W/dont-track-me-google) - Firefox and Chrome extensions to prevent Google from making links ugly.
 - [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
