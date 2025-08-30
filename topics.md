@@ -1241,7 +1241,7 @@
 - [ProgrammingHero1/js-internals](https://github.com/ProgrammingHero1/js-internals) - 
 - [ProgrammingHero1/B8-common-js-concepts](https://github.com/ProgrammingHero1/B8-common-js-concepts) - 
 - [ProgrammingHero1/batch6-es6-intro](https://github.com/ProgrammingHero1/batch6-es6-intro) - 
-- [ProgrammingHero1/more-es6](https://github.com/ProgrammingHero1/more-es6) - 
+- [ProgrammingHero1/B6-more-es6](https://github.com/ProgrammingHero1/B6-more-es6) - 
 - [tonikelope/megabasterd](https://github.com/tonikelope/megabasterd) - Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.
 - [aryanc403/remind](https://github.com/aryanc403/remind) - A discord bot that sends reminders for future contests.
 - [imranpollob/used-software](https://github.com/imranpollob/used-software) - Software I use for development or general purpose
