@@ -158,6 +158,7 @@
 
 ## JavaScript 
 
+- [jquense/react-big-calendar](https://github.com/jquense/react-big-calendar) - gcal/outlook like calendar component
 - [oframe/ogl](https://github.com/oframe/ogl) - Minimal WebGL Library
 - [iris-networks/gpt-agent](https://github.com/iris-networks/gpt-agent) - Fully self hosted chatgpt agent alternative
 - [metaory/gradient-gl](https://github.com/metaory/gradient-gl) - Tiny WebGL library for Deterministic seed-driven Procedural Gradient Animations
@@ -279,6 +280,7 @@
 
 ## Others 
 
+- [shadcnio/react-shadcn-components](https://github.com/shadcnio/react-shadcn-components) - Production-ready React components following shadcn/ui principles. TypeScript-first, Tailwind-styled, Radix-powered. Beautiful defaults with complete customization freedom. The frontend UI toolkit for 
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [errilaz/awesome-js-runtimes](https://github.com/errilaz/awesome-js-runtimes) - A curated list of JavaScript/ECMAScript runtimes, app frameworks, and engines.
 - [omicronlab/Avro-Keyboard](https://github.com/omicronlab/Avro-Keyboard) - Unicode compliant open source Bangla typing software for Windows
@@ -444,6 +446,7 @@
 
 ## TypeScript 
 
+- [wa0x6e/cal-heatmap](https://github.com/wa0x6e/cal-heatmap) - Cal-Heatmap is a javascript charting library to create a time-series calendar heatmap
 - [megh-bari/pattern-craft](https://github.com/megh-bari/pattern-craft) - Professional-grade background patterns and gradients for your websites and apps. Easily copy and paste into your next project. Crafted with modern CSS and Tailwind for seamless integration.
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll at it should be
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
