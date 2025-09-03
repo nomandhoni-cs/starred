@@ -1753,6 +1753,7 @@
 
 ## wordpress 
 
+- [1N3/Wordpress-XMLRPC-Brute-Force-Exploit](https://github.com/1N3/Wordpress-XMLRPC-Brute-Force-Exploit) - Wordpress XMLRPC System Multicall Brute Force Exploit (0day)  by 1N3 @ CrowdShield
 - [colbyfayock/next-wordpress-starter](https://github.com/colbyfayock/next-wordpress-starter) - 📝 Bring WordPress to the static world with Next.js
 - [WebDevStudios/nextjs-wordpress-starter](https://github.com/WebDevStudios/nextjs-wordpress-starter) - A headless starter for WordPress powered by Next.js.
 - [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Toolkit
