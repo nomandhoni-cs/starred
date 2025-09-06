@@ -399,6 +399,7 @@
 
 ## Rust 
 
+- [drager/wasm-pack](https://github.com/drager/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
 - [thewh1teagle/RustDuck](https://github.com/thewh1teagle/RustDuck) - Cross platform dynamic DNS updater for duckdns.org
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
