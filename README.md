@@ -407,7 +407,7 @@
 - [reujab/wallpaper.rs](https://github.com/reujab/wallpaper.rs) - A cross-platform Rust library for getting and setting desktop wallpapers
 - [valpackett/systemstat](https://github.com/valpackett/systemstat) - Rust library for getting system information | also on https://codeberg.org/valpackett/systemstat
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [pevers/tauri-plugin-nosleep](https://github.com/pevers/tauri-plugin-nosleep) - Tauri plugin to block the power save functionality in the OS
 - [Borber/Tran](https://github.com/Borber/Tran) - 简洁, 快速, 划词翻译
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
