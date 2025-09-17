@@ -118,7 +118,7 @@
 - [Shopify/themekit](https://github.com/Shopify/themekit) - Shopify theme development command line tool.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
-- [keploy/keploy](https://github.com/keploy/keploy) - Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!
+- [keploy/keploy](https://github.com/keploy/keploy) - API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!
 - [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img) - 
 - [made-in-bangladesh/made-in-bangladesh](https://github.com/made-in-bangladesh/made-in-bangladesh) - A curated list of awesome frameworks, libraries and softwares made in Bangladesh.
 - [honeynet/ochi](https://github.com/honeynet/ochi) - 
