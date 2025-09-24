@@ -452,6 +452,8 @@
 
 ## TypeScript 
 
+- [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
+- [AmanVarshney01/dodo-next](https://github.com/AmanVarshney01/dodo-next) - just testing
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [michaelshimeles/nextjs-starter-kit](https://github.com/michaelshimeles/nextjs-starter-kit) - The Ulimate Nextjs Starter Kit. Build your next SAAS product of your dreams. Batteries included.
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
@@ -534,7 +536,7 @@
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
 - [nomandhoni-cs/blink-eye](https://github.com/nomandhoni-cs/blink-eye) - A minimalist Eye Care & Break Reminder app for Windows, macOS, and Linux. Prevents eye strain, RSI, and CVS with customizable timers, full-screen break notifications, Daily Usage analytics, and built-
-- [trytriplex/triplex](https://github.com/trytriplex/triplex) - Build the 2D and 3D web. Your visual workspace for React / Three Fiber.
+- [pmndrs/triplex](https://github.com/pmndrs/triplex) - The open source visual workspace for React / Three Fiber. Build the 2D and 3D web.
 - [jln13x/ui.jln.dev](https://github.com/jln13x/ui.jln.dev) - 10000+ Themes for shadcn/ui.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
