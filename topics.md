@@ -31,6 +31,7 @@
 - [clash](#clash)
 - [cli](#cli)
 - [clojure](#clojure)
+- [cloud](#cloud)
 - [code](#code)
 - [code-quality](#code-quality)
 - [coding](#coding)
@@ -422,6 +423,12 @@
 ## clojure 
 
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+
+## cloud 
+
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+- [googleworkspace/apps-script-samples](https://github.com/googleworkspace/apps-script-samples) - Apps Script samples for Google Workspace products.
 
 ## code 
 
@@ -991,6 +998,7 @@
 
 ## mongodb 
 
+- [ProMehedi/bun-hono-better-auth](https://github.com/ProMehedi/bun-hono-better-auth) - A high-performance full-stack template using Bun, Hono, and Better Auth with MongoDB integration.
 - [AbmSourav/bdapis](https://github.com/AbmSourav/bdapis) - Bangladesh locations Rest API service. Build with NodeJS, Express, MongoDB
 
 ## mongoose 
@@ -1258,7 +1266,6 @@
 - [kevin-powell/reponsive-web-design-bootcamp](https://github.com/kevin-powell/reponsive-web-design-bootcamp) - Course files for the Responsive Web Design Bootcamp: [https://scrimba.com/course/gresponsive/]
 - [Inochi2D/inochi2d](https://github.com/Inochi2D/inochi2d) - Inochi2D SDK - Bring your characters to life
 - [prondubuisi/accepted-gsoc-proposals](https://github.com/prondubuisi/accepted-gsoc-proposals) - A repository containing links to accepted proposals for GSoC, Hopefully this helps someone write a better proposal and get accepted into the program
-- [googleworkspace/apps-script-samples](https://github.com/googleworkspace/apps-script-samples) - Apps Script samples for Google Workspace products.
 - [json-schema-org/JSON-Schema-Test-Suite](https://github.com/json-schema-org/JSON-Schema-Test-Suite) - A language agnostic test suite for the JSON Schema specifications
 - [learnwithsumit/nodejs-basic-bangla](https://github.com/learnwithsumit/nodejs-basic-bangla) - This repository contains necessary codes and resources that I discuss in my Node.js Tutorial series at Youtube. Playlist link: https://www.youtube.com/watch?v=WC-g0JtEIwM&list=PLHiZ4m8vCp9PHnOIT7gd30P
 - [javichur/blur-background-webcam-without-green-chroma](https://github.com/javichur/blur-background-webcam-without-green-chroma) - Free solution to put background blur on your webcam without using chroma. Designed for OBS Studio and others apps.
