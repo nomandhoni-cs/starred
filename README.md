@@ -452,6 +452,7 @@
 
 ## TypeScript 
 
+- [ProMehedi/bun-hono-better-auth](https://github.com/ProMehedi/bun-hono-better-auth) - A high-performance full-stack template using Bun, Hono, and Better Auth with MongoDB integration.
 - [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
 - [AmanVarshney01/dodo-next](https://github.com/AmanVarshney01/dodo-next) - just testing
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
