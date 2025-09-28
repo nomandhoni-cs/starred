@@ -224,7 +224,6 @@
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [RocketChat/EmbeddedChat](https://github.com/RocketChat/EmbeddedChat) - An easy to use full-stack component  (ReactJS)  embedding Rocket.Chat into your webapp
-- [valhalla/web-app](https://github.com/valhalla/web-app) - [HELP NEEDED] This is the demo web app running on https://valhalla.openstreetmap.de
 - [tanvirrb/event-app](https://github.com/tanvirrb/event-app) - simple event app
 - [nishant-666/ChatGPT-React](https://github.com/nishant-666/ChatGPT-React) - 
 - [asif-jalil/scroll-carousel](https://github.com/asif-jalil/scroll-carousel) - Scroll carousel, a unique content slider that specially works on window scroll.
@@ -589,6 +588,7 @@
 - [Netflix/mantis-ui](https://github.com/Netflix/mantis-ui) - 
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [zulip/zulip-desktop](https://github.com/zulip/zulip-desktop) - Zulip Desktop client for Mac, Windows and Linux.
+- [valhalla/web-app](https://github.com/valhalla/web-app) - [HELP NEEDED] This is the demo web app running on https://valhalla.openstreetmap.de
 - [moalamri/vscode-inline-fold](https://github.com/moalamri/vscode-inline-fold) - A custom decorator that "fold" matching content in single line
 - [ecronix/react-most-wanted](https://github.com/ecronix/react-most-wanted) - React starter kit with "Most Wanted" application features
 - [r5n-labs/vscode-react-javascript-snippets](https://github.com/r5n-labs/vscode-react-javascript-snippets) - Extension for React/Javascript snippets with search supporting ES7+ and babel features
