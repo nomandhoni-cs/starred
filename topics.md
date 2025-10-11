@@ -187,6 +187,7 @@
 - [website](#website)
 - [windows](#windows)
 - [wordpress](#wordpress)
+- [youtube](#youtube)
 - [zig](#zig)
 - [zsh](#zsh)
 
@@ -1232,14 +1233,12 @@
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [devsonket/devsonket.github.io](https://github.com/devsonket/devsonket.github.io) - 🎨🛠📌 সম্পূর্ণ বাংলায় ডেভেলপার চিটশিট 🎨🛠📌
 - [camicroscope/caMicroscope](https://github.com/camicroscope/caMicroscope) - Digital pathology image viewer with support for human/machine generated annotations and markups.
-- [gijsdev/ublock-hide-yt-shorts](https://github.com/gijsdev/ublock-hide-yt-shorts) - uBlock Origin filter list to hide YouTube Shorts
 - [nomandhoni-cs/useReducer](https://github.com/nomandhoni-cs/useReducer) - This is Recap of following react docs for practicing useReducer Hook
 - [nomandhoni-cs/nomandhoni-cs](https://github.com/nomandhoni-cs/nomandhoni-cs) - Hi, My name is Abdullah Al Noman. You can also find me as 'Noman Dhoni' in social media and Search Engines.  I am currently doing my Bachelors in Computer Science and Engineering.  I have knowledge in
 - [Asfak00/DSA-learning](https://github.com/Asfak00/DSA-learning) - It is a document repository. I'm learning DSA so I created this repository to note down all the things, that might benefit many others. In this repository, I have tried to cover all the important topi
 - [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img) - 
 - [planetarian/TamperMonkey-Scripts](https://github.com/planetarian/TamperMonkey-Scripts) - Small collection of handy TamperMonkey scripts.
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
-- [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) - The intrusive "Ad blocker are not allowed on YouTube"  message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection
 - [sugarlabs/GSoC](https://github.com/sugarlabs/GSoC) - A guide for participating in Google Summer of Code with Sugar Labs
 - [sambecker/use-typing-headlines](https://github.com/sambecker/use-typing-headlines) - React hook designed to display animated headlines
 - [openboard-team/openboard](https://github.com/openboard-team/openboard) - 
@@ -1831,6 +1830,13 @@
 - [colbyfayock/next-wordpress-starter](https://github.com/colbyfayock/next-wordpress-starter) - 📝 Bring WordPress to the static world with Next.js
 - [WebDevStudios/nextjs-wordpress-starter](https://github.com/WebDevStudios/nextjs-wordpress-starter) - A headless starter for WordPress powered by Next.js.
 - [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Toolkit
+- [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
+
+## youtube 
+
+- [namidaco/namida](https://github.com/namidaco/namida) - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
+- [gijsdev/ublock-hide-yt-shorts](https://github.com/gijsdev/ublock-hide-yt-shorts) - uBlock Origin filter list to hide YouTube Shorts
+- [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) - The intrusive "Ad blocker are not allowed on YouTube"  message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 
 ## zig 
