@@ -316,7 +316,6 @@
 - [wagtail/gsoc](https://github.com/wagtail/gsoc) - Resources, activity, discussions for Wagtail’s participation to Google Summer of Code
 - [gijsdev/ublock-hide-yt-shorts](https://github.com/gijsdev/ublock-hide-yt-shorts) - uBlock Origin filter list to hide YouTube Shorts
 - [nomandhoni-cs/nomandhoni-cs](https://github.com/nomandhoni-cs/nomandhoni-cs) - Hi, My name is Abdullah Al Noman. You can also find me as 'Noman Dhoni' in social media and Search Engines.  I am currently doing my Bachelors in Computer Science and Engineering.  I have knowledge in
-- [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
 - [foyzulkarim/mock-interviews-2023](https://github.com/foyzulkarim/mock-interviews-2023) - 
 - [lahin31/system-design-bangla](https://github.com/lahin31/system-design-bangla) - System Design Tutorial in Bangla
 - [ifahimreza/bangladesh-geojson](https://github.com/ifahimreza/bangladesh-geojson) - Bangladesh GEOJSON - Divisions, Districts, Upazilas
@@ -378,6 +377,7 @@
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 - [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Industry leading face manipulation platform
+- [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
 - [SevaSk/ecoute](https://github.com/SevaSk/ecoute) - Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox.
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
