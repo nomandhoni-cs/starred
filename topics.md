@@ -1151,6 +1151,7 @@
 
 ## others 
 
+- [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
 - [daveyplate/better-auth-tauri](https://github.com/daveyplate/better-auth-tauri) - Tauri plugin for Better Auth to handle OAuth & Magic Link etc
 - [mohammad-atikuzzaman/auto-random-route-visitior](https://github.com/mohammad-atikuzzaman/auto-random-route-visitior) - 
 - [AmanVarshney01/dodo-next](https://github.com/AmanVarshney01/dodo-next) - just testing
