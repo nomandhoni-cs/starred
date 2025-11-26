@@ -87,6 +87,7 @@
 - [good-first-issue](#good-first-issue)
 - [google](#google)
 - [graphql](#graphql)
+- [gui](#gui)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
@@ -752,6 +753,10 @@
 - [sourcenetwork/defradb](https://github.com/sourcenetwork/defradb) - DefraDB is a Peer-to-Peer Edge-First Database. It's the core data storage system for the Source Ecosystem, built with IPLD, LibP2P, CRDTs, and Semantic open web properties.
 - [Hashnode/starter-kit](https://github.com/Hashnode/starter-kit) - A blog starter kit to use Hashnode as a Headless CMS using GraphQL APIs.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
+
+## gui 
+
+- [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 
 ## hacking 
 
