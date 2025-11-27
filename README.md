@@ -34,6 +34,7 @@
 - [SCSS](#scss)
 - [SVG](#svg)
 - [Shell](#shell)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vue](#vue)
@@ -243,7 +244,6 @@
 - [ProgrammingHero1/batch6-es6-intro](https://github.com/ProgrammingHero1/batch6-es6-intro) - 
 - [ProgrammingHero1/B6-more-es6](https://github.com/ProgrammingHero1/B6-more-es6) - 
 - [Rob--W/dont-track-me-google](https://github.com/Rob--W/dont-track-me-google) - Firefox and Chrome extensions to prevent Google from making links ugly.
-- [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [bobangajicsm/react-portfolio-website](https://github.com/bobangajicsm/react-portfolio-website) - 
 - [TeamVanced/discord-open-source](https://github.com/TeamVanced/discord-open-source) - List of open source communities living on Discord
@@ -333,6 +333,7 @@
 - [imranpollob/used-software](https://github.com/imranpollob/used-software) - Software I use for development or general purpose
 - [skills/introduction-to-github](https://github.com/skills/introduction-to-github) - Get started using GitHub in less than an hour.
 - [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) - Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript
+- [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum: 2nd Edition, by Andreas M. Antonopoulos, Gavin Wood, Carlo Parisi, Alessandro Mazza, Niccolò Pozzolini
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
@@ -441,6 +442,10 @@
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [sugarlabs/GSoC](https://github.com/sugarlabs/GSoC) - A guide for participating in Google Summer of Code with Sugar Labs
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+
+## Svelte 
+
+- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
 
 ## Swift 
 
