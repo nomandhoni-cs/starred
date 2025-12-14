@@ -329,7 +329,7 @@
 - [nrnb/GoogleSummerOfCode](https://github.com/nrnb/GoogleSummerOfCode) - Main documentation site for NRNB GSoC project ideas and resources
 - [camicroscope/GSOC](https://github.com/camicroscope/GSOC) - Self-Contained Project Ideas from caMicroscope (Ideal for GSoC or small grants)
 - [cBioPortal/GSoC](https://github.com/cBioPortal/GSoC) - Documentation repository of Google Summer of Code (GSoC) project ideas for cBioPortal and related projects
-- [neutralinojs/gsoc2025](https://github.com/neutralinojs/gsoc2025) - Google Summer of Code 2025 guide - Neutralinojs
+- [neutralinojs/gsoc2026](https://github.com/neutralinojs/gsoc2026) - Google Summer of Code 2025 guide - Neutralinojs
 - [imranpollob/used-software](https://github.com/imranpollob/used-software) - Software I use for development or general purpose
 - [skills/introduction-to-github](https://github.com/skills/introduction-to-github) - Get started using GitHub in less than an hour.
 - [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) - Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript
