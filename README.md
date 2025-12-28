@@ -252,7 +252,6 @@
 
 ## Jupyter Notebook 
 
-- [devhasibulislam/autotrain-dreambooth](https://github.com/devhasibulislam/autotrain-dreambooth) - Create LinkedIn/AI Headshots For Absolutely Free!
 - [salesforce/BLIP](https://github.com/salesforce/BLIP) - PyTorch code for BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
 - [imranpollob/google-colab-torrent-downloader](https://github.com/imranpollob/google-colab-torrent-downloader) - Download torrent using google colab
 
