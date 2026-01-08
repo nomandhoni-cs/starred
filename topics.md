@@ -717,7 +717,7 @@
 
 ## gis 
 
-- [valhalla/web-app](https://github.com/valhalla/web-app) - [HELP NEEDED] This is the demo web app running on https://valhalla.openstreetmap.de
+- [valhalla/web-app](https://github.com/valhalla/web-app) - This is the demo web app running on https://valhalla.openstreetmap.de
 
 ## git 
 
@@ -1521,7 +1521,7 @@
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
 - [RocketChat/EmbeddedChat](https://github.com/RocketChat/EmbeddedChat) - An easy to use full-stack component  (ReactJS)  embedding Rocket.Chat into your webapp
-- [valhalla/web-app](https://github.com/valhalla/web-app) - [HELP NEEDED] This is the demo web app running on https://valhalla.openstreetmap.de
+- [valhalla/web-app](https://github.com/valhalla/web-app) - This is the demo web app running on https://valhalla.openstreetmap.de
 - [ecronix/react-most-wanted](https://github.com/ecronix/react-most-wanted) - React starter kit with "Most Wanted" application features
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
