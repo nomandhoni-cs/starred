@@ -998,6 +998,7 @@
 
 ## macos 
 
+- [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [nomandhoni-cs/tauri-nextjs-shadcn-boilerplate](https://github.com/nomandhoni-cs/tauri-nextjs-shadcn-boilerplate) - A modern cross-platform desktop app boilerplate using Tauri, Next.js, Tailwind CSS, Shadcn UI, and Bun with GitHub Actions CI for macOS, Windows, and Linux. Fast, themeable, and production-ready.
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
@@ -1350,7 +1351,7 @@
 - [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
 - [Rob--W/dont-track-me-google](https://github.com/Rob--W/dont-track-me-google) - Firefox and Chrome extensions to prevent Google from making links ugly.
 - [Nafyaz/Competitive-Programming](https://github.com/Nafyaz/Competitive-Programming) - 
-- [Maclinz/JS_CSS_PortfolioProject](https://github.com/Maclinz/JS_CSS_PortfolioProject) - 
+- [thecodedealer/JS_CSS_PortfolioProject](https://github.com/thecodedealer/JS_CSS_PortfolioProject) - 
 - [bobangajicsm/react-portfolio-website](https://github.com/bobangajicsm/react-portfolio-website) - 
 - [TeamVanced/discord-open-source](https://github.com/TeamVanced/discord-open-source) - List of open source communities living on Discord
 - [TeamVanced/VancedBackend](https://github.com/TeamVanced/VancedBackend) - Various files required by the website and also the backend of the Guide App files
