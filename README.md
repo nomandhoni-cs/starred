@@ -14,6 +14,7 @@
 - [Clojure](#clojure)
 - [D](#d)
 - [Dart](#dart)
+- [Fluent](#fluent)
 - [Go](#go)
 - [Groovy](#groovy)
 - [HTML](#html)
@@ -110,6 +111,10 @@
 - [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada apps.
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 
+## Fluent 
+
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
+
 ## Go 
 
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -137,7 +142,7 @@
 - [kevin-powell/reponsive-web-design-bootcamp](https://github.com/kevin-powell/reponsive-web-design-bootcamp) - Course files for the Responsive Web Design Bootcamp: [https://scrimba.com/course/gresponsive/]
 - [javichur/blur-background-webcam-without-green-chroma](https://github.com/javichur/blur-background-webcam-without-green-chroma) - Free solution to put background blur on your webcam without using chroma. Designed for OBS Studio and others apps.
 - [shree998/Campus-Expert](https://github.com/shree998/Campus-Expert) - Learn to build technical communities on your campus,
-- [Maclinz/JS_CSS_PortfolioProject](https://github.com/Maclinz/JS_CSS_PortfolioProject) - 
+- [thecodedealer/JS_CSS_PortfolioProject](https://github.com/thecodedealer/JS_CSS_PortfolioProject) - 
 - [khan4019/angular-interview-questions](https://github.com/khan4019/angular-interview-questions) - Most extensive Angular interview questions based on your level.
 
 ## Haskell 
@@ -171,7 +176,6 @@
 - [metaory/gradient-gl](https://github.com/metaory/gradient-gl) - Tiny WebGL library for Deterministic seed-driven Procedural Gradient Animations  [breaking v2 shaders coming]
 - [akashraj9828/svg-text-animation-generator](https://github.com/akashraj9828/svg-text-animation-generator) - A pure CSS SVG text animation generator with any google fonts.
 - [colbyfayock/next-wordpress-starter](https://github.com/colbyfayock/next-wordpress-starter) - 📝 Bring WordPress to the static world with Next.js
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [microsoft/vscode-generator-code](https://github.com/microsoft/vscode-generator-code) - Visual Studio Code extension generator
 - [jamiebuilds/tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) - A Tailwind CSS plugin for creating beautiful animations
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
@@ -319,7 +323,7 @@
 - [foyzulkarim/mock-interviews-2023](https://github.com/foyzulkarim/mock-interviews-2023) - 
 - [lahin31/system-design-bangla](https://github.com/lahin31/system-design-bangla) - System Design Tutorial in Bangla
 - [ifahimreza/bangladesh-geojson](https://github.com/ifahimreza/bangladesh-geojson) - Bangladesh GEOJSON - Divisions, Districts, Upazilas
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+- [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [dellamora/gsoc-2023-proposal](https://github.com/dellamora/gsoc-2023-proposal) - 
 - [faisalahammad/wordpress-support-engineer-resources](https://github.com/faisalahammad/wordpress-support-engineer-resources) - WordPress Support Engineer Resources
 - [json-schema-org/community](https://github.com/json-schema-org/community) - A space to discuss community and organisational related things
@@ -451,6 +455,7 @@
 
 ## Swift 
 
+- [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [rurza/BatFi](https://github.com/rurza/BatFi) - Battery charging limiter for macOS.
 - [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
