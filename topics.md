@@ -1912,7 +1912,7 @@
 - [nomandhoni-cs/blink-eye](https://github.com/nomandhoni-cs/blink-eye) - A minimalist Eye Care & Break Reminder app for Windows, macOS, and Linux. Prevents eye strain, RSI, and CVS with customizable timers, full-screen break notifications, Daily Usage analytics, and built-
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [Alex313031/Thorium-Win](https://github.com/Alex313031/Thorium-Win) - Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [SevaSk/ecoute](https://github.com/SevaSk/ecoute) - Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox.
 - [zulip/zulip-desktop](https://github.com/zulip/zulip-desktop) - Zulip Desktop client for Mac, Windows and Linux.
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
