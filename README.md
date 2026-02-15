@@ -568,7 +568,7 @@
 - [nomandhoni-cs/useReducer](https://github.com/nomandhoni-cs/useReducer) - This is Recap of following react docs for practicing useReducer Hook
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [visgl/react-google-maps](https://github.com/visgl/react-google-maps) - React components and hooks for the Google Maps JavaScript API
-- [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
+- [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern toolkit for building drag and drop interfaces
 - [mrinc/F-B-Hide-Recommendations-and-Reels](https://github.com/mrinc/F-B-Hide-Recommendations-and-Reels) - This google chrome extension hides Reels and recommendations on Facebook
 - [sambecker/use-typing-headlines](https://github.com/sambecker/use-typing-headlines) - React hook designed to display animated headlines
 - [rickstaa/github-emoji-picker](https://github.com/rickstaa/github-emoji-picker) - A simple emotion picker that displays all the supported GitHub emojis :octocat:.
