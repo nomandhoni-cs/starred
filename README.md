@@ -466,6 +466,7 @@
 
 ## TypeScript 
 
+- [anl331/goey-toast](https://github.com/anl331/goey-toast) - A gooey, morphing toast component built on Sonner with Framer Motion animations
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
 - [tombcato/smart-ticker](https://github.com/tombcato/smart-ticker) - 🎰 High-Performance Text Diff Motion Component. Make your text flow like water.  高性能文本 Diff 动画组件：让你的文本平滑演变，支持任意字符 (数字/中英文/Emoji)，支持 React & Vue & Svelte
 - [sadmann7/diceui](https://github.com/sadmann7/diceui) - Accessible shadcn/ui components built with React, TypeScript, and Tailwind CSS. Copy-paste ready, and customizable.
@@ -535,7 +536,7 @@
 - [puckeditor/puck](https://github.com/puckeditor/puck) - Create your own AI page builder
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [amannn/next-intl](https://github.com/amannn/next-intl) - 🌐 Internationalization (i18n) for Next.js
-- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Next.js Boilerplate and Starter with App Router and Page Router support, Tailwind CSS 4 and TypeScript ⚡️ Made with developer experience first: Next.js 16 + TypeScript + ESLint + Prettier + Drizzl
+- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Nextjs Boilerplate and Starter with App Router and Page Router support, Tailwind CSS 4 and TypeScript ⚡️ Made with developer experience first: Next.js 16 + TypeScript + ESLint + Prettier + Drizzle
 - [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) - BookmarkHub , sync bookmarks across different browsers
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
