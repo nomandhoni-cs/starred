@@ -467,6 +467,7 @@
 
 ## TypeScript 
 
+- [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
 - [anl331/goey-toast](https://github.com/anl331/goey-toast) - A gooey, morphing toast component built on Sonner with Framer Motion animations
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
 - [tombcato/smart-ticker](https://github.com/tombcato/smart-ticker) - 🎰 High-Performance Text Diff Motion Component. Make your text flow like water.  高性能文本 Diff 动画组件：让你的文本平滑演变，支持任意字符 (数字/中英文/Emoji)，支持 React & Vue & Svelte
