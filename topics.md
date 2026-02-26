@@ -1200,6 +1200,7 @@
 
 ## others 
 
+- [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
 - [m-lab/gsoc](https://github.com/m-lab/gsoc) - Google Summer of Code (GSoC) @ M-Lab
 - [anl331/goey-toast](https://github.com/anl331/goey-toast) - A gooey, morphing toast component built on Sonner with Framer Motion animations
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
