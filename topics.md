@@ -1201,6 +1201,7 @@
 
 ## others 
 
+- [bytaesu/better-auth-separate-backend](https://github.com/bytaesu/better-auth-separate-backend) - Example: Better Auth on a separate backend
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
 - [m-lab/gsoc](https://github.com/m-lab/gsoc) - Google Summer of Code (GSoC) @ M-Lab
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
