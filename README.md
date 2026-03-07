@@ -81,7 +81,7 @@
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Source code and Linux releases. Windows/MacOS/ARM builds served in different repos, links are towards the top of the README.md.
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
 - [mahmudulhasancsedu5/Algorithms](https://github.com/mahmudulhasancsedu5/Algorithms) - 
 - [Nafyaz/Competitive-Programming](https://github.com/Nafyaz/Competitive-Programming) - 
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
@@ -149,7 +149,7 @@
 
 ## Java 
 
-- [Helium314/HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
+- [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 - [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 250kb Android launcher
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [fodydev/afrim-keyboard](https://github.com/fodydev/afrim-keyboard) - afrim-keyboard/Afrim Input Method Engine for Android
@@ -287,6 +287,7 @@
 
 ## Others 
 
+- [sketch-hq/skills](https://github.com/sketch-hq/skills) - Skills catalog for Sketch
 - [m-lab/gsoc](https://github.com/m-lab/gsoc) - Google Summer of Code (GSoC) @ M-Lab
 - [shadcnio/react-shadcn-components](https://github.com/shadcnio/react-shadcn-components) - Production-ready React components following shadcn/ui principles. TypeScript-first, Tailwind-styled, Radix-powered. Beautiful defaults with complete customization freedom. The frontend UI toolkit for 
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
@@ -406,6 +407,7 @@
 
 ## Rust 
 
+- [bagindo/tauri-plugin-keygen](https://github.com/bagindo/tauri-plugin-keygen) - Tauri plugin for Keygen.sh licensing
 - [theopfr/somo](https://github.com/theopfr/somo) - A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [drager/wasm-pack](https://github.com/drager/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
@@ -466,6 +468,9 @@
 
 ## TypeScript 
 
+- [KozielGPC/video-editor-app](https://github.com/KozielGPC/video-editor-app) - 
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
+- [blueberrycongee/CursorLens](https://github.com/blueberrycongee/CursorLens) - Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [bytaesu/better-auth-separate-backend](https://github.com/bytaesu/better-auth-separate-backend) - Example: Better Auth on a separate backend
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
 - [anl331/goey-toast](https://github.com/anl331/goey-toast) - A gooey, morphing toast component built on Sonner with Framer Motion animations
