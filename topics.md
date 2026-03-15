@@ -1208,6 +1208,7 @@
 
 ## others 
 
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [KhanShaheb34/iAvro](https://github.com/KhanShaheb34/iAvro) - Avro Keyboard for M-series macs
 - [sketch-hq/skills](https://github.com/sketch-hq/skills) - Skills catalog for Sketch
 - [KozielGPC/video-editor-app](https://github.com/KozielGPC/video-editor-app) - 
