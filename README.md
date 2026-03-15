@@ -58,7 +58,6 @@
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
 - [cgsecurity/testdisk](https://github.com/cgsecurity/testdisk) - TestDisk & PhotoRec
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [mpc-hc/mpc-hc](https://github.com/mpc-hc/mpc-hc) - MPC-HC's main repository.  For support use our Trac: https://trac.mpc-hc.org/
 
 ## C# # 
@@ -81,6 +80,7 @@
 - [mamedev/mame](https://github.com/mamedev/mame) - MAME
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Source code and Linux releases. Windows/MacOS/ARM builds served in different repos, links are towards the top of the README.md.
+- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
 - [mahmudulhasancsedu5/Algorithms](https://github.com/mahmudulhasancsedu5/Algorithms) - 
@@ -111,7 +111,6 @@
 - [namidaco/namida](https://github.com/namidaco/namida) - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada apps.
-- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 
 ## Go 
 
@@ -165,6 +164,7 @@
 
 ## JavaScript 
 
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [mohammad-atikuzzaman/auto-random-route-visitior](https://github.com/mohammad-atikuzzaman/auto-random-route-visitior) - 
 - [jankovicsandras/imagetracerjs](https://github.com/jankovicsandras/imagetracerjs) - Simple raster image tracer and vectorizer written in JavaScript.
 - [tooolbox/node-potrace](https://github.com/tooolbox/node-potrace) - JavaScript port of Potrace, for NodeJS
@@ -269,6 +269,7 @@
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
+- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) - Vanced Installer
 
 ## Liquid 
