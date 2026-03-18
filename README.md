@@ -118,7 +118,7 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [sourcenetwork/defradb](https://github.com/sourcenetwork/defradb) - DefraDB is a Peer-to-Peer Edge-First Database. It's the core data storage system for the Source Ecosystem, built with IPLD, LibP2P, CRDTs, and Semantic open web properties.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ED2K. Cross-platform, built with Golang and Flutter.
 - [Shopify/themekit](https://github.com/Shopify/themekit) - Shopify theme development command line tool.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
@@ -330,7 +330,7 @@
 - [foyzulkarim/mock-interviews-2023](https://github.com/foyzulkarim/mock-interviews-2023) - 
 - [lahin31/system-design-bangla](https://github.com/lahin31/system-design-bangla) - System Design Tutorial in Bangla
 - [ifahimreza/bangladesh-geojson](https://github.com/ifahimreza/bangladesh-geojson) - Bangladesh GEOJSON - Divisions, Districts, Upazilas
-- [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [dellamora/gsoc-2023-proposal](https://github.com/dellamora/gsoc-2023-proposal) - 
 - [faisalahammad/wordpress-support-engineer-resources](https://github.com/faisalahammad/wordpress-support-engineer-resources) - WordPress Support Engineer Resources
 - [json-schema-org/community](https://github.com/json-schema-org/community) - A space to discuss community and organisational related things
@@ -522,7 +522,7 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [faiyaz032/central-gateway](https://github.com/faiyaz032/central-gateway) - An unified payment gateway integration library for Bangladeshi payment providers
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
-- [extension-js/extension.js](https://github.com/extension-js/extension.js) - Create, develop, build, and preview browser extensions for Chrome, Firefox, Edge, and Safari.
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - The cross-browser extension framework.
 - [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
 - [nomandhoni-cs/QuickPeek](https://github.com/nomandhoni-cs/QuickPeek) - Spotlight and Alfred like Search for Browsers. Shortcut [CTRL +M]
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
