@@ -1227,8 +1227,9 @@
 
 ## others 
 
+- [elegracer/NetSpeedMonitor](https://github.com/elegracer/NetSpeedMonitor) - A minimal menu bar macOS app to monitor network speed
 - [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI/GUI for managing the battery charging status for Apple silicon (M1, M2, M3) Macs
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars 
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [ReVanced/GmsCore](https://github.com/ReVanced/GmsCore) - Free implementation of Play Services
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [KhanShaheb34/iAvro](https://github.com/KhanShaheb34/iAvro) - Avro Keyboard for M-series macs
