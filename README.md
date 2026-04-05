@@ -413,7 +413,7 @@
 
 ## Rust 
 
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars 
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [OpenBangla/riti](https://github.com/OpenBangla/riti) - The Next Gen Bengali input method library written in Rust.
 - [bagindo/tauri-plugin-keygen](https://github.com/bagindo/tauri-plugin-keygen) - Tauri plugin for Keygen.sh licensing
 - [theopfr/somo](https://github.com/theopfr/somo) - A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS.
@@ -468,6 +468,7 @@
 
 ## Swift 
 
+- [elegracer/NetSpeedMonitor](https://github.com/elegracer/NetSpeedMonitor) - A minimal menu bar macOS app to monitor network speed
 - [ARahim3/Lekho](https://github.com/ARahim3/Lekho) - Avro Phonetic Bangla keyboard for macOS — native Apple Silicon, works on M1/M2/M3/M4/M5 Macs. Free, open source replacement for iAvro.
 - [pawello2222/WidgetExamples](https://github.com/pawello2222/WidgetExamples) - A demo project showing different types of Widgets created with SwiftUI and WidgetKit.
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
