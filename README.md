@@ -634,7 +634,7 @@
 - [manshu/reactjs-chrome-extension](https://github.com/manshu/reactjs-chrome-extension) - This is a cool little reactjs chrome extension build. Test it out. It's fun! ReadME coming soon.
 - [sanity-io/nextjs-blog-cms-sanity-v3](https://github.com/sanity-io/nextjs-blog-cms-sanity-v3) - A Next.js Blog with a Native Authoring Experience
 - [stale-reactjs-org-translations/bn.reactjs.org](https://github.com/stale-reactjs-org-translations/bn.reactjs.org) - (Work in progress) React documentation website in Bengali
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
 - [Netflix/mantis-ui](https://github.com/Netflix/mantis-ui) - 
