@@ -478,6 +478,7 @@
 
 ## Swift 
 
+- [ismailhrifat/Close2Quit](https://github.com/ismailhrifat/Close2Quit) - A lightweight macOS utility that quits apps when their last window is closed, with per-app rules, launch-at-login support, and optional menu bar control.
 - [elegracer/NetSpeedMonitor](https://github.com/elegracer/NetSpeedMonitor) - A minimal menu bar macOS app to monitor network speed
 - [ARahim3/Lekho](https://github.com/ARahim3/Lekho) - Avro Phonetic Bangla keyboard for macOS — native Apple Silicon, works on M1/M2/M3/M4/M5 Macs. Free, open source replacement for iAvro.
 - [pawello2222/WidgetExamples](https://github.com/pawello2222/WidgetExamples) - A demo project showing different types of Widgets created with SwiftUI and WidgetKit.
