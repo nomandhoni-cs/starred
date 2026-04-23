@@ -271,6 +271,7 @@
 
 ## Kotlin 
 
+- [jksalcedo/librefind](https://github.com/jksalcedo/librefind) - Discover and replace proprietary apps with FOSS alternatives
 - [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet) - Ivy Wallet is an open-source money manager app for Android, no longer maintained. You can fork the code or download the final version from Google Play.
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
@@ -303,6 +304,7 @@
 
 ## Others 
 
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [sketch-hq/skills](https://github.com/sketch-hq/skills) - Skills catalog for Sketch
 - [m-lab/gsoc](https://github.com/m-lab/gsoc) - Google Summer of Code (GSoC) @ M-Lab
 - [shadcnio/react-shadcn-components](https://github.com/shadcnio/react-shadcn-components) - Production-ready React components following shadcn/ui principles. TypeScript-first, Tailwind-styled, Radix-powered. Beautiful defaults with complete customization freedom. The frontend UI toolkit for 
@@ -379,6 +381,7 @@
 
 ## Python 
 
+- [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [1N3/Wordpress-XMLRPC-Brute-Force-Exploit](https://github.com/1N3/Wordpress-XMLRPC-Brute-Force-Exploit) - Wordpress XMLRPC System Multicall Brute Force Exploit (0day)  by 1N3 @ CrowdShield
@@ -494,6 +497,7 @@
 
 ## TypeScript 
 
+- [kapishdima/dialectcn](https://github.com/kapishdima/dialectcn) - A living library of shadcn presets
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [KozielGPC/video-editor-app](https://github.com/KozielGPC/video-editor-app) - 
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
