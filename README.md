@@ -577,7 +577,7 @@
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Nextjs Boilerplate and Starter with App Router and Page Router support, Tailwind CSS 4 and TypeScript ⚡️ Made with developer experience first: Next.js 16 + TypeScript + ESLint + Prettier + Drizzle
 - [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) - BookmarkHub , sync bookmarks across different browsers
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
-- [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Tauri + shadcn/ui starter. Pick your framework and start building — Vite, Next.js, React Router, Astro, TanStack Start.
+- [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Tauri + shadcn/ui starter. Pick your framework and start building. Vite, Next.js, React Router, Astro, TanStack Start.
 - [MauricioRobayo/nextjs-google-analytics](https://github.com/MauricioRobayo/nextjs-google-analytics) - Google Analytics for Next.js
 - [open-sauced/app](https://github.com/open-sauced/app) - 🍕 Insights into your entire open source ecosystem.
 - [svobik7/next-roots](https://github.com/svobik7/next-roots) - Next.js utility to generate i18n routes in the new APP directory.
