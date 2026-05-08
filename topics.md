@@ -1307,7 +1307,6 @@
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 - [hedge-dev/UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) - An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.
 - [reujab/wallpaper.rs](https://github.com/reujab/wallpaper.rs) - A cross-platform Rust library for getting and setting desktop wallpapers
-- [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
 - [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
 - [Nutlope/logocreator](https://github.com/Nutlope/logocreator) - A free + OSS logo generator powered by Flux on Together AI
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK!
@@ -1738,6 +1737,7 @@
 
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [wealthfolio/wealthfolio](https://github.com/wealthfolio/wealthfolio) - A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
