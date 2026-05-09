@@ -511,7 +511,7 @@
 - [sadmann7/diceui](https://github.com/sadmann7/diceui) - Accessible shadcn/ui components built with React, TypeScript, and Tailwind CSS. Copy-paste ready, and customizable.
 - [daveyplate/better-auth-tauri](https://github.com/daveyplate/better-auth-tauri) - Tauri plugin for Better Auth to handle OAuth & Magic Link etc
 - [TanayK07/expo-react-native-cicd](https://github.com/TanayK07/expo-react-native-cicd) - 🚀 Free alternative to Expo EAS builds! Complete CI/CD pipeline for React Native & Expo apps using GitHub Actions. Save $100s monthly with unlimited builds, automated testing, and flexible deployment o
-- [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Select context for coding agents directly from your website
+- [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Copy any UI element for your agent
 - [ProMehedi/bun-hono-better-auth](https://github.com/ProMehedi/bun-hono-better-auth) - A high-performance full-stack template using Bun, Hono, and Better Auth with MongoDB integration.
 - [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
 - [AmanVarshney01/dodo-next](https://github.com/AmanVarshney01/dodo-next) - just testing
