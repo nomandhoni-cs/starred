@@ -498,6 +498,7 @@
 
 ## TypeScript 
 
+- [penge/block-site](https://github.com/penge/block-site) - Chrome/Firefox extension that blocks access to distracting websites to improve your productivity.
 - [kapishdima/dialectcn](https://github.com/kapishdima/dialectcn) - A living library of shadcn presets
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [KozielGPC/video-editor-app](https://github.com/KozielGPC/video-editor-app) - 
