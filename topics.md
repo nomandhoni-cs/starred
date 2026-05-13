@@ -739,6 +739,7 @@
 
 ## game 
 
+- [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 
 ## game-development 
@@ -1042,6 +1043,7 @@
 
 ## mac 
 
+- [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
@@ -1057,10 +1059,11 @@
 
 ## macos 
 
+- [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [saiftheboss7/ByeBye-Bytes](https://github.com/saiftheboss7/ByeBye-Bytes) - Native macOS video compressor for Apple Silicon. Drop a video, get a smaller H.265 MP4. Zero settings, hardware HEVC via VideoToolbox, Liquid Glass UI.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
-- [ARahim3/Lekho](https://github.com/ARahim3/Lekho) - Avro Phonetic Bangla keyboard for macOS — native Apple Silicon, works on M1/M2/M3/M4/M5 Macs. Free, open source replacement for iAvro.
+- [ARahim3/Lekho](https://github.com/ARahim3/Lekho) - Free, open source Avro Phonetic Bangla keyboard for macOS — built natively for Apple Silicon (M1/M2/M3/M4/M5). Powered by OpenBangla's riti engine.
 - [blueberrycongee/CursorLens](https://github.com/blueberrycongee/CursorLens) - Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [nomandhoni-cs/tauri-nextjs-shadcn-boilerplate](https://github.com/nomandhoni-cs/tauri-nextjs-shadcn-boilerplate) - A modern cross-platform desktop app boilerplate using Tauri, Next.js, Tailwind CSS, Shadcn UI, and Bun with GitHub Actions CI for macOS, Windows, and Linux. Fast, themeable, and production-ready.
@@ -1270,6 +1273,7 @@
 
 ## others 
 
+- [Sikarugir-App/Sikarugir](https://github.com/Sikarugir-App/Sikarugir) - A tool used to make user-friendly wine wrapped ports of Windows software for macOS.
 - [kapishdima/dialectcn](https://github.com/kapishdima/dialectcn) - A living library of shadcn presets
 - [ismailhrifat/Close2Quit](https://github.com/ismailhrifat/Close2Quit) - A lightweight macOS utility that quits apps when their last window is closed, with per-app rules, launch-at-login support, and optional menu bar control.
 - [averygan/reclip](https://github.com/averygan/reclip) - Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.
@@ -1701,6 +1705,7 @@
 ## rust 
 
 - [OpenBangla/riti](https://github.com/OpenBangla/riti) - The Next Gen Bengali input method library written in Rust.
+- [ARahim3/Lekho](https://github.com/ARahim3/Lekho) - Free, open source Avro Phonetic Bangla keyboard for macOS — built natively for Apple Silicon (M1/M2/M3/M4/M5). Powered by OpenBangla's riti engine.
 - [wasm-bindgen/wasm-pack](https://github.com/wasm-bindgen/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [nomandhoni-cs/tauri-nextjs-shadcn-boilerplate](https://github.com/nomandhoni-cs/tauri-nextjs-shadcn-boilerplate) - A modern cross-platform desktop app boilerplate using Tauri, Next.js, Tailwind CSS, Shadcn UI, and Bun with GitHub Actions CI for macOS, Windows, and Linux. Fast, themeable, and production-ready.
@@ -1793,6 +1798,7 @@
 ## swift 
 
 - [saiftheboss7/ByeBye-Bytes](https://github.com/saiftheboss7/ByeBye-Bytes) - Native macOS video compressor for Apple Silicon. Drop a video, get a smaller H.265 MP4. Zero settings, hardware HEVC via VideoToolbox, Liquid Glass UI.
+- [ARahim3/Lekho](https://github.com/ARahim3/Lekho) - Free, open source Avro Phonetic Bangla keyboard for macOS — built natively for Apple Silicon (M1/M2/M3/M4/M5). Powered by OpenBangla's riti engine.
 - [pawello2222/WidgetExamples](https://github.com/pawello2222/WidgetExamples) - A demo project showing different types of Widgets created with SwiftUI and WidgetKit.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -1801,6 +1807,7 @@
 
 ## swiftui 
 
+- [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [saiftheboss7/ByeBye-Bytes](https://github.com/saiftheboss7/ByeBye-Bytes) - Native macOS video compressor for Apple Silicon. Drop a video, get a smaller H.265 MP4. Zero settings, hardware HEVC via VideoToolbox, Liquid Glass UI.
 - [pawello2222/WidgetExamples](https://github.com/pawello2222/WidgetExamples) - A demo project showing different types of Widgets created with SwiftUI and WidgetKit.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
