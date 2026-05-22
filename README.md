@@ -176,7 +176,7 @@
 - [jankovicsandras/imagetracerjs](https://github.com/jankovicsandras/imagetracerjs) - Simple raster image tracer and vectorizer written in JavaScript.
 - [tooolbox/node-potrace](https://github.com/tooolbox/node-potrace) - JavaScript port of Potrace, for NodeJS
 - [iwsfg/node-potrace](https://github.com/iwsfg/node-potrace) - JavaScript port of Potrace, for NodeJS
-- [jquense/react-big-calendar](https://github.com/jquense/react-big-calendar) - gcal/outlook like calendar component
+- [bigcalendar/react-big-calendar](https://github.com/bigcalendar/react-big-calendar) - gcal/outlook like calendar component
 - [oframe/ogl](https://github.com/oframe/ogl) - Minimal WebGL Library
 - [iris-networks/gpt-agent](https://github.com/iris-networks/gpt-agent) - Fully self hosted chatgpt agent alternative
 - [metaory/gradient-gl](https://github.com/metaory/gradient-gl) - Tiny WebGL library for Deterministic seed-driven Procedural Gradient Animations  [breaking v2 shaders coming]
