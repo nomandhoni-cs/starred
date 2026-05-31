@@ -1274,6 +1274,7 @@
 
 ## others 
 
+- [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
 - [Sikarugir-App/Sikarugir](https://github.com/Sikarugir-App/Sikarugir) - A tool used to make user-friendly wine wrapped ports of Windows software for macOS.
 - [kapishdima/dialectcn](https://github.com/kapishdima/dialectcn) - A living library of shadcn presets
 - [ismailhrifat/Close2Quit](https://github.com/ismailhrifat/Close2Quit) - A lightweight macOS utility that quits apps when their last window is closed, with per-app rules, launch-at-login support, and optional menu bar control.
