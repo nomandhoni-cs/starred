@@ -412,7 +412,6 @@
 - [saketkc/fos-proposals](https://github.com/saketkc/fos-proposals) - :gift_heart: :penguin: Archive of GSoC proposals
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - JSON Schema in every programming language
 - [json-schema-org/JSON-Schema-Test-Suite](https://github.com/json-schema-org/JSON-Schema-Test-Suite) - A language agnostic test suite for the JSON Schema specifications
-- [bilalelidrissi171/sheets-downloader](https://github.com/bilalelidrissi171/sheets-downloader) - I came up with using Python. It can fetch data from Google Sheets, Excel, or a CSV file and download the file by using the link in one cell and naming it based on the name in another cell. This makes 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [Toxic-Noob/ToxicBomber](https://github.com/Toxic-Noob/ToxicBomber) - A Powerful SMS Bomber Tool For Bangladesh.
 - [aryanc403/remind](https://github.com/aryanc403/remind) - A discord bot that sends reminders for future contests.
@@ -621,7 +620,7 @@
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [justin-chu/react-fast-marquee](https://github.com/justin-chu/react-fast-marquee) - A lightweight React component that harnesses the power of CSS animations to create silky smooth marquees.
 - [asif-jalil/scroll-carousel-react](https://github.com/asif-jalil/scroll-carousel-react) - Scroll carousel, a unique content slider that specially works on window scroll.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
 - [panaverse/learn-nextjs](https://github.com/panaverse/learn-nextjs) - Learn Modern Full Stack Web 2 and Web 3 Development using Typescript, Next.js 13 Apps, Tailwind CSS, Shadcn UI, Neon, Drizzle ORM, and Sanity
 - [steven-tey/og](https://github.com/steven-tey/og) - Display headlines directly inside your news article's OG images.
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
