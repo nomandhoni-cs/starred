@@ -309,7 +309,7 @@
 
 - [Sikarugir-App/Sikarugir](https://github.com/Sikarugir-App/Sikarugir) - A tool used to make user-friendly wine wrapped ports of Windows software for macOS.
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
-- [sketch-hq/skills](https://github.com/sketch-hq/skills) - Skills catalog for Sketch
+- [sketch-hq/agents](https://github.com/sketch-hq/agents) - Skills catalog for Sketch
 - [m-lab/gsoc](https://github.com/m-lab/gsoc) - Google Summer of Code (GSoC) @ M-Lab
 - [shadcnio/react-shadcn-components](https://github.com/shadcnio/react-shadcn-components) - Production-ready React components following shadcn/ui principles. TypeScript-first, Tailwind-styled, Radix-powered. Beautiful defaults with complete customization freedom. The frontend UI toolkit for 
 - [errilaz/awesome-js-runtimes](https://github.com/errilaz/awesome-js-runtimes) - A curated list of JavaScript/ECMAScript runtimes, app frameworks, and engines.
@@ -468,6 +468,7 @@
 
 ## Shell 
 
+- [wpexpertinbd/bangla-keyboard-mac](https://github.com/wpexpertinbd/bangla-keyboard-mac) - Free Bangla keyboard layout for macOS (Apple Silicon & Intel) — Windows-style fixed layout, Unicode + Classic, 14 bundled free fonts, one-click installer with uninstall
 - [agenticnotetaking/arscontexta](https://github.com/agenticnotetaking/arscontexta) - Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own
 - [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI/GUI for managing the battery charging status for Apple silicon (M1, M2, M3) Macs
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
