@@ -1049,6 +1049,7 @@
 
 ## mac 
 
+- [wpexpertinbd/bangla-keyboard-mac](https://github.com/wpexpertinbd/bangla-keyboard-mac) - Free Bangla keyboard layout for macOS (Apple Silicon & Intel) — Windows-style fixed layout, Unicode + Classic, 14 bundled free fonts, one-click installer with uninstall
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
@@ -1065,6 +1066,7 @@
 
 ## macos 
 
+- [wpexpertinbd/bangla-keyboard-mac](https://github.com/wpexpertinbd/bangla-keyboard-mac) - Free Bangla keyboard layout for macOS (Apple Silicon & Intel) — Windows-style fixed layout, Unicode + Classic, 14 bundled free fonts, one-click installer with uninstall
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [saiftheboss7/ByeBye-Bytes](https://github.com/saiftheboss7/ByeBye-Bytes) - Native macOS video compressor for Apple Silicon. Drop a video, get a smaller H.265 MP4. Zero settings, hardware HEVC via VideoToolbox, Liquid Glass UI.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -1293,7 +1295,7 @@
 - [ReVanced/GmsCore](https://github.com/ReVanced/GmsCore) - Free implementation of Play Services
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [KhanShaheb34/iAvro](https://github.com/KhanShaheb34/iAvro) - Avro Keyboard for M-series macs
-- [sketch-hq/skills](https://github.com/sketch-hq/skills) - Skills catalog for Sketch
+- [sketch-hq/agents](https://github.com/sketch-hq/agents) - Skills catalog for Sketch
 - [KozielGPC/video-editor-app](https://github.com/KozielGPC/video-editor-app) - 
 - [bagindo/tauri-plugin-keygen](https://github.com/bagindo/tauri-plugin-keygen) - Tauri plugin for Keygen.sh licensing
 - [bytaesu/better-auth-separate-backend](https://github.com/bytaesu/better-auth-separate-backend) - Example: Better Auth on a separate backend
