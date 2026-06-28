@@ -53,6 +53,7 @@
 
 ## C 
 
+- [wpexpertinbd/bangla-keyboard](https://github.com/wpexpertinbd/bangla-keyboard) - Free, open-source Bijoy-style Bangla keyboard for macOS, Windows & Linux — one shared reorder engine, three native shells. macOS shipping; Windows/Linux in progress.
 - [henrypp/memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
@@ -467,7 +468,6 @@
 
 ## Shell 
 
-- [wpexpertinbd/bangla-keyboard-mac](https://github.com/wpexpertinbd/bangla-keyboard-mac) - Free Bangla keyboard layout for macOS (Apple Silicon & Intel) — Windows-style fixed layout, Unicode + Classic, 14 bundled free fonts, one-click installer with uninstall
 - [agenticnotetaking/arscontexta](https://github.com/agenticnotetaking/arscontexta) - Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own
 - [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI/GUI for managing the battery charging status for Apple silicon (M1, M2, M3) Macs
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
