@@ -556,7 +556,7 @@
 - [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
 - [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
-- [mujsdev/mi-html](https://github.com/mujsdev/mi-html) - A micro-interactions repo open for anyone to use in their projects. Built with pure HTML, CSS, and JS.
+- [prodigymuj/mi-html](https://github.com/prodigymuj/mi-html) - A micro-interactions repo open for anyone to use in their projects. Built with pure HTML, CSS, and JS.
 
 ## cybersecurity 
 
@@ -891,7 +891,7 @@
 - [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
 - [camicroscope/GSOC](https://github.com/camicroscope/GSOC) - Self-Contained Project Ideas from caMicroscope (Ideal for GSoC or small grants)
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
-- [mujsdev/mi-html](https://github.com/mujsdev/mi-html) - A micro-interactions repo open for anyone to use in their projects. Built with pure HTML, CSS, and JS.
+- [prodigymuj/mi-html](https://github.com/prodigymuj/mi-html) - A micro-interactions repo open for anyone to use in their projects. Built with pure HTML, CSS, and JS.
 
 ## http 
 
@@ -980,7 +980,7 @@
 - [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) - Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [mujsdev/mi-html](https://github.com/mujsdev/mi-html) - A micro-interactions repo open for anyone to use in their projects. Built with pure HTML, CSS, and JS.
+- [prodigymuj/mi-html](https://github.com/prodigymuj/mi-html) - A micro-interactions repo open for anyone to use in their projects. Built with pure HTML, CSS, and JS.
 
 ## jetpack-compose 
 
