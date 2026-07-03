@@ -95,7 +95,7 @@
 
 - [shahmedme/minder](https://github.com/shahmedme/minder) - Online banking system made with Express.js, EJS, MySQL
 - [moelzanaty3/react-18-workshop](https://github.com/moelzanaty3/react-18-workshop) - The Boat you need to master React 18
-- [mujsdev/mi-html](https://github.com/mujsdev/mi-html) - A micro-interactions repo open for anyone to use in their projects. Built with pure HTML, CSS, and JS.
+- [prodigymuj/mi-html](https://github.com/prodigymuj/mi-html) - A micro-interactions repo open for anyone to use in their projects. Built with pure HTML, CSS, and JS.
 - [maateen/bangla-web-fonts](https://github.com/maateen/bangla-web-fonts) - Making the web more beautiful, fast, and open through great Bengali typography.
 
 ## Clojure 
