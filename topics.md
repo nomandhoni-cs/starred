@@ -202,6 +202,7 @@
 - [web](#web)
 - [web-development](#web-development)
 - [website](#website)
+- [whatsapp-bot](#whatsapp-bot)
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [workflow](#workflow)
@@ -412,6 +413,7 @@
 
 ## bot 
 
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [tahirahmed22/DiscordBot](https://github.com/tahirahmed22/DiscordBot) - Basic DIscord Bot that will detect words in a sentence and reply with predefined words/sentences.
 
@@ -2039,6 +2041,10 @@
 ## website 
 
 - [yashitanamdeo/yashitanamdeo.github.io](https://github.com/yashitanamdeo/yashitanamdeo.github.io) - My Personal Portfolio Website - V1
+
+## whatsapp-bot 
+
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 
 ## windows 
 
