@@ -1037,7 +1037,7 @@
 
 ## linux 
 
-- [wpexpertinbd/bangla-keyboard](https://github.com/wpexpertinbd/bangla-keyboard) - Free, open-source Bijoy-style Bangla keyboard for macOS, Windows & Linux — one shared reorder engine, three native shells. macOS shipping; Windows/Linux in progress.
+- [wpexpertinbd/bangla-keyboard](https://github.com/wpexpertinbd/bangla-keyboard) - Free, open-source fixed-layout Bangla keyboard for macOS, Windows & Linux — one shared reorder engine, three native shells, plus free voice typing (Bangla + English). All three shipping.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [nomandhoni-cs/tauri-nextjs-shadcn-boilerplate](https://github.com/nomandhoni-cs/tauri-nextjs-shadcn-boilerplate) - A modern cross-platform desktop app boilerplate using Tauri, Next.js, Tailwind CSS, Shadcn UI, and Bun with GitHub Actions CI for macOS, Windows, and Linux. Fast, themeable, and production-ready.
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
@@ -1071,7 +1071,7 @@
 
 ## mac 
 
-- [wpexpertinbd/bangla-keyboard](https://github.com/wpexpertinbd/bangla-keyboard) - Free, open-source Bijoy-style Bangla keyboard for macOS, Windows & Linux — one shared reorder engine, three native shells. macOS shipping; Windows/Linux in progress.
+- [wpexpertinbd/bangla-keyboard](https://github.com/wpexpertinbd/bangla-keyboard) - Free, open-source fixed-layout Bangla keyboard for macOS, Windows & Linux — one shared reorder engine, three native shells, plus free voice typing (Bangla + English). All three shipping.
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
@@ -1088,7 +1088,7 @@
 
 ## macos 
 
-- [wpexpertinbd/bangla-keyboard](https://github.com/wpexpertinbd/bangla-keyboard) - Free, open-source Bijoy-style Bangla keyboard for macOS, Windows & Linux — one shared reorder engine, three native shells. macOS shipping; Windows/Linux in progress.
+- [wpexpertinbd/bangla-keyboard](https://github.com/wpexpertinbd/bangla-keyboard) - Free, open-source fixed-layout Bangla keyboard for macOS, Windows & Linux — one shared reorder engine, three native shells, plus free voice typing (Bangla + English). All three shipping.
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [saiftheboss7/ByeBye-Bytes](https://github.com/saiftheboss7/ByeBye-Bytes) - Native macOS video compressor for Apple Silicon. Drop a video, get a smaller H.265 MP4. Zero settings, hardware HEVC via VideoToolbox, Liquid Glass UI.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -2048,7 +2048,7 @@
 
 ## windows 
 
-- [wpexpertinbd/bangla-keyboard](https://github.com/wpexpertinbd/bangla-keyboard) - Free, open-source Bijoy-style Bangla keyboard for macOS, Windows & Linux — one shared reorder engine, three native shells. macOS shipping; Windows/Linux in progress.
+- [wpexpertinbd/bangla-keyboard](https://github.com/wpexpertinbd/bangla-keyboard) - Free, open-source fixed-layout Bangla keyboard for macOS, Windows & Linux — one shared reorder engine, three native shells, plus free voice typing (Bangla + English). All three shipping.
 - [TypeWhisper/typewhisper-win](https://github.com/TypeWhisper/typewhisper-win) - TypeWhisper for Windows - Local speech-to-text with translation
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [henrypp/memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
