@@ -505,6 +505,7 @@
 
 ## TypeScript 
 
+- [kapjhaap/KapjhaapTV](https://github.com/kapjhaap/KapjhaapTV) - ঘরে টিভি নেই? তাতে কী হয়েছে! 📺  এবার আপনার মোবাইল, পিসি বা ল্যাপটপকেই বানিয়ে নিন নিজের টিভি! 🎉  ভিজিট করুন কাপঝাপ টিভি এবং উপভোগ করুন প্রতিদিনের বাংলা ও হিন্দি টিভি চ্যানেল আপনার পছন্দের বিনোদন এখন হা
 - [mnfst/manifest](https://github.com/mnfst/manifest) - Connect Your Agents And Harnesses With Any Provider 🦚
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [penge/block-site](https://github.com/penge/block-site) - Chrome/Firefox extension that blocks access to distracting websites to improve your productivity.
