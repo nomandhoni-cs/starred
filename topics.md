@@ -1307,6 +1307,7 @@
 
 ## others 
 
+- [jakubkrehel/skills](https://github.com/jakubkrehel/skills) - A collection of agent skills that help with various parts of building a great interface. From animation and UI polish to accessibility and product writing.
 - [kapjhaap/KapjhaapTV](https://github.com/kapjhaap/KapjhaapTV) - ঘরে টিভি নেই? তাতে কী হয়েছে! 📺  এবার আপনার মোবাইল, পিসি বা ল্যাপটপকেই বানিয়ে নিন নিজের টিভি! 🎉  ভিজিট করুন কাপঝাপ টিভি এবং উপভোগ করুন প্রতিদিনের বাংলা ও হিন্দি টিভি চ্যানেল আপনার পছন্দের বিনোদন এখন হা
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [wasiahmad/wasiahmad.github.io](https://github.com/wasiahmad/wasiahmad.github.io) - My Personal Website
