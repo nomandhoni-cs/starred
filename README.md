@@ -579,7 +579,7 @@
 - [mefengl/wxt-starter](https://github.com/mefengl/wxt-starter) - Maybe the best template based on wxt.
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [codad5/google-task-desktop](https://github.com/codad5/google-task-desktop) - An Unofficial Desktop Client for Google Tasks
-- [retroui/RetroUI](https://github.com/retroui/RetroUI) - A NeoBrutalism styled React + TailwindCSS UI library for building bold, modern web apps.
+- [neobrutalism/neobrutalism](https://github.com/neobrutalism/neobrutalism) - A NeoBrutalism styled React + TailwindCSS UI library for building bold, modern web apps.
 - [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Toolkit
 - [tom-james-watson/breaktimer-app](https://github.com/tom-james-watson/breaktimer-app) - Manage periodic breaks. Avoid eye-strain and RSI.
 - [autonomys/subspace-desktop](https://github.com/autonomys/subspace-desktop) - A simple desktop farmer for the Subspace Network
@@ -590,7 +590,7 @@
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Nextjs Boilerplate and Starter with App Router and Page Router support, Tailwind CSS 4 and TypeScript ⚡️ Made with developer experience first: Next.js 16 + TypeScript + ESLint + Prettier + Drizzle
 - [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) - BookmarkHub , sync bookmarks across different browsers
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
-- [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Tauri + shadcn/ui starter. Pick your framework and start building. Vite, Next.js, React Router, Astro, TanStack Start.
+- [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Tauri + shadcn/ui starter. Pick your framework and start building.
 - [MauricioRobayo/nextjs-google-analytics](https://github.com/MauricioRobayo/nextjs-google-analytics) - Google Analytics for Next.js
 - [open-sauced/app](https://github.com/open-sauced/app) - 🍕 Insights into your entire open source ecosystem.
 - [svobik7/next-roots](https://github.com/svobik7/next-roots) - Next.js utility to generate i18n routes in the new APP directory.
