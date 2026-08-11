@@ -1844,6 +1844,7 @@
 
 ## swift 
 
+- [danielsaidi/OnboardingKit](https://github.com/danielsaidi/OnboardingKit) - Create amazing SwiftUI onboarding experiences.
 - [saiftheboss7/ByeBye-Bytes](https://github.com/saiftheboss7/ByeBye-Bytes) - Native macOS video compressor for Apple Silicon. Drop a video, get a smaller H.265 MP4. Zero settings, hardware HEVC via VideoToolbox, Liquid Glass UI.
 - [ARahim3/Lekho](https://github.com/ARahim3/Lekho) - Free, open source Avro Phonetic Bangla keyboard for macOS — built natively for Apple Silicon (M1/M2/M3/M4/M5). Powered by OpenBangla's riti engine.
 - [pawello2222/WidgetExamples](https://github.com/pawello2222/WidgetExamples) - A demo project showing different types of Widgets created with SwiftUI and WidgetKit.
@@ -1854,6 +1855,7 @@
 
 ## swiftui 
 
+- [danielsaidi/OnboardingKit](https://github.com/danielsaidi/OnboardingKit) - Create amazing SwiftUI onboarding experiences.
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [saiftheboss7/ByeBye-Bytes](https://github.com/saiftheboss7/ByeBye-Bytes) - Native macOS video compressor for Apple Silicon. Drop a video, get a smaller H.265 MP4. Zero settings, hardware HEVC via VideoToolbox, Liquid Glass UI.
 - [pawello2222/WidgetExamples](https://github.com/pawello2222/WidgetExamples) - A demo project showing different types of Widgets created with SwiftUI and WidgetKit.
