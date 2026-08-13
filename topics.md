@@ -479,6 +479,7 @@
 
 ## claude 
 
+- [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -1088,6 +1089,7 @@
 
 ## macos 
 
+- [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
 - [wpexpertinbd/bangla-keyboard](https://github.com/wpexpertinbd/bangla-keyboard) - Free, open-source fixed-layout Bangla keyboard for macOS, Windows & Linux — one shared reorder engine, three native shells, plus free voice typing (Bangla + English). All three shipping.
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [saiftheboss7/ByeBye-Bytes](https://github.com/saiftheboss7/ByeBye-Bytes) - Native macOS video compressor for Apple Silicon. Drop a video, get a smaller H.265 MP4. Zero settings, hardware HEVC via VideoToolbox, Liquid Glass UI.
@@ -1130,6 +1132,7 @@
 
 ## mcp 
 
+- [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI and shadcn/ui
@@ -1311,7 +1314,7 @@
 ## others 
 
 - [aasthas2022/SDE-Interview-and-Prep-Roadmap](https://github.com/aasthas2022/SDE-Interview-and-Prep-Roadmap) - Welcome to the SDE Interview Preparation Roadmap! This repository is not just about my personal journey; it's a collaborative space for collective learning. As I prepare for Software Development Engin
-- [jakubkrehel/skills](https://github.com/jakubkrehel/skills) - A collection of agent skills that help with various parts of building a great interface. From animation and UI polish to accessibility and product writing.
+- [jakubkrehel/skills](https://github.com/jakubkrehel/skills) - A collection of agent skills that help you build a great interface.
 - [kapjhaap/KapjhaapTV](https://github.com/kapjhaap/KapjhaapTV) - ঘরে টিভি নেই? তাতে কী হয়েছে! 📺  এবার আপনার মোবাইল, পিসি বা ল্যাপটপকেই বানিয়ে নিন নিজের টিভি! 🎉  ভিজিট করুন কাপঝাপ টিভি এবং উপভোগ করুন প্রতিদিনের বাংলা ও হিন্দি টিভি চ্যানেল আপনার পছন্দের বিনোদন এখন হা
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [wasiahmad/wasiahmad.github.io](https://github.com/wasiahmad/wasiahmad.github.io) - My Personal Website
@@ -1844,6 +1847,7 @@
 
 ## swift 
 
+- [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
 - [danielsaidi/OnboardingKit](https://github.com/danielsaidi/OnboardingKit) - Create amazing SwiftUI onboarding experiences.
 - [saiftheboss7/ByeBye-Bytes](https://github.com/saiftheboss7/ByeBye-Bytes) - Native macOS video compressor for Apple Silicon. Drop a video, get a smaller H.265 MP4. Zero settings, hardware HEVC via VideoToolbox, Liquid Glass UI.
 - [ARahim3/Lekho](https://github.com/ARahim3/Lekho) - Free, open source Avro Phonetic Bangla keyboard for macOS — built natively for Apple Silicon (M1/M2/M3/M4/M5). Powered by OpenBangla's riti engine.
