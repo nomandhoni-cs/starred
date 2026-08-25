@@ -608,7 +608,7 @@
 - [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Build cross-browser extensions with native HMR and zero-config setup
 - [doc-han/xtensio](https://github.com/doc-han/xtensio) - Browser Extension development made easy! A framework for building browser extensions
 - [adamint/tlv-vscode](https://github.com/adamint/tlv-vscode) - 
-- [jpmcb/prow-github-actions](https://github.com/jpmcb/prow-github-actions) - Slash commands, jobs, and chat-ops for Github actions inspired by Kubernetes Prow ⚓️
+- [cncf/prow-github-actions](https://github.com/cncf/prow-github-actions) - Slash commands, jobs, and chat-ops for Github actions inspired by Kubernetes Prow ⚓️
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
