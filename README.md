@@ -127,7 +127,7 @@
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [Shopify/themekit](https://github.com/Shopify/themekit) - Shopify theme development command line tool.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - A node.js version management utility for Windows. Ironically written in Go.
+- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
 - [keploy/keploy](https://github.com/keploy/keploy) - Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.
 - [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img) - 
 - [made-in-bangladesh/made-in-bangladesh](https://github.com/made-in-bangladesh/made-in-bangladesh) - A curated list of awesome frameworks, libraries and softwares made in Bangladesh.
