@@ -326,7 +326,6 @@
 - [agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) - 🍎 🖥 🎆 A curated list of screensavers for Mac OS X
 - [h4h13/paisa-app](https://github.com/h4h13/paisa-app) - Paisa app release and bugs maintain
 - [builtbybel/CloneApp](https://github.com/builtbybel/CloneApp) - 📦Easily Backup & Restore Windows Programs Settings
-- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Open source AI job application toolkit in Python: generate a resume and cover letter tailored to each job posting, and drive a stealth browser from any AI client over MCP.
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [banglakit/awesome-bangla](https://github.com/banglakit/awesome-bangla) - A collection of tools, datasets and resources on Bangla computing
 - [chilikasha/tinytools](https://github.com/chilikasha/tinytools) - Collection of useful, simple, single purpose apps and tools for everyday tasks.
@@ -403,6 +402,7 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [r0oth3x49/udemy-dl](https://github.com/r0oth3x49/udemy-dl) - A cross-platform python based utility to download courses from udemy for personal offline use.
 - [Puyodead1/udemy-downloader](https://github.com/Puyodead1/udemy-downloader) - A Udemy downloader that can download courses, with DRM support.
+- [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) - Born as an AI web agent that applied to jobs in bulk. Becoming a general one: an agent you point at the web and tell what to do.
 - [derv82/wifite2](https://github.com/derv82/wifite2) - Rewrite of the popular wireless network auditor, "wifite"
 - [openvpi/audio-slicer](https://github.com/openvpi/audio-slicer) - Python script that slices audio with silence detection
 - [karpathy/ulogme](https://github.com/karpathy/ulogme) - Automatically collect and visualize usage statistics in Ubuntu/OSX environments.
