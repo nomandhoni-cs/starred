@@ -1360,7 +1360,7 @@
 - [mugli/Avro-Keyboard](https://github.com/mugli/Avro-Keyboard) - Unicode compliant native Bangla/Bengali Input Method Editor (IME) for Windows
 - [RoundedTB/RoundedTB](https://github.com/RoundedTB/RoundedTB) - Add margins, rounded corners and segments to your taskbars!
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
-- [faiyaz032/central-gateway](https://github.com/faiyaz032/central-gateway) - An unified payment gateway integration library for Bangladeshi payment providers
+- [faiyazrahmann/central-gateway](https://github.com/faiyazrahmann/central-gateway) - An unified payment gateway integration library for Bangladeshi payment providers
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
 - [microsoft/vscode-generator-code](https://github.com/microsoft/vscode-generator-code) - Visual Studio Code extension generator
 - [jamiebuilds/tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) - A Tailwind CSS plugin for creating beautiful animations
