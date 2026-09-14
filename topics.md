@@ -923,6 +923,7 @@
 
 ## ios 
 
+- [nachonavarro/Pages](https://github.com/nachonavarro/Pages) - 📖   A lightweight, paging view solution for SwiftUI
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
@@ -1558,7 +1559,7 @@
 - [penge/block-site](https://github.com/penge/block-site) - Chrome/Firefox extension that blocks access to distracting websites to improve your productivity.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
-- [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) - Open-source AI browser agent for web automation, undetected by anti-bot systems: a web browsing agent on a stealth Firefox that is not flagged as a bot, not blocked, and does not trigger captchas. Pla
+- [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) - Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and computer use agents. No captchas.
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [nomandhoni-cs/blink-eye](https://github.com/nomandhoni-cs/blink-eye) - A minimalist Eye Care & Break Reminder app for Windows, macOS, and Linux. Prevents eye strain, RSI, and CVS with customizable timers, full-screen break notifications, Daily Usage analytics, and built-
@@ -1847,6 +1848,7 @@
 
 ## swift 
 
+- [nachonavarro/Pages](https://github.com/nachonavarro/Pages) - 📖   A lightweight, paging view solution for SwiftUI
 - [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
 - [danielsaidi/OnboardingKit](https://github.com/danielsaidi/OnboardingKit) - Create amazing SwiftUI onboarding experiences.
 - [saiftheboss7/ByeBye-Bytes](https://github.com/saiftheboss7/ByeBye-Bytes) - Native macOS video compressor for Apple Silicon. Drop a video, get a smaller H.265 MP4. Zero settings, hardware HEVC via VideoToolbox, Liquid Glass UI.
@@ -1861,6 +1863,7 @@
 
 ## swiftui 
 
+- [nachonavarro/Pages](https://github.com/nachonavarro/Pages) - 📖   A lightweight, paging view solution for SwiftUI
 - [danielsaidi/OnboardingKit](https://github.com/danielsaidi/OnboardingKit) - Create amazing SwiftUI onboarding experiences.
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [saiftheboss7/ByeBye-Bytes](https://github.com/saiftheboss7/ByeBye-Bytes) - Native macOS video compressor for Apple Silicon. Drop a video, get a smaller H.265 MP4. Zero settings, hardware HEVC via VideoToolbox, Liquid Glass UI.
@@ -1978,6 +1981,7 @@
 
 ## ui 
 
+- [nachonavarro/Pages](https://github.com/nachonavarro/Pages) - 📖   A lightweight, paging view solution for SwiftUI
 - [anl331/goey-toast](https://github.com/anl331/goey-toast) - A gooey, morphing toast component built on Sonner with Framer Motion animations
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
 - [tombcato/smart-ticker](https://github.com/tombcato/smart-ticker) - 🎰 High-Performance Text Diff Motion Component. Make your text flow like water.  高性能文本 Diff 动画组件：让你的文本平滑演变，支持任意字符 (数字/中英文/Emoji)，支持 React & Vue & Svelte
