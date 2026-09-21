@@ -1230,6 +1230,7 @@
 
 ## nodejs 
 
+- [farhansadikgalib/bd-map](https://github.com/farhansadikgalib/bd-map) - Interactive drill-down maps of Bangladesh for React, plus a geography and data API for Node. Division to union, English and Bangla names, choropleths from JSON or an API.
 - [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
@@ -1617,6 +1618,7 @@
 
 ## react 
 
+- [farhansadikgalib/bd-map](https://github.com/farhansadikgalib/bd-map) - Interactive drill-down maps of Bangladesh for React, plus a geography and data API for Node. Division to union, English and Bangla names, choropleths from JSON or an API.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [blueberrycongee/CursorLens](https://github.com/blueberrycongee/CursorLens) - Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [anl331/goey-toast](https://github.com/anl331/goey-toast) - A gooey, morphing toast component built on Sonner with Framer Motion animations
@@ -1932,6 +1934,7 @@
 
 ## typescript 
 
+- [farhansadikgalib/bd-map](https://github.com/farhansadikgalib/bd-map) - Interactive drill-down maps of Bangladesh for React, plus a geography and data API for Node. Division to union, English and Bangla names, choropleths from JSON or an API.
 - [blueberrycongee/CursorLens](https://github.com/blueberrycongee/CursorLens) - Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [anl331/goey-toast](https://github.com/anl331/goey-toast) - A gooey, morphing toast component built on Sonner with Framer Motion animations
 - [tombcato/smart-ticker](https://github.com/tombcato/smart-ticker) - 🎰 High-Performance Text Diff Motion Component. Make your text flow like water.  高性能文本 Diff 动画组件：让你的文本平滑演变，支持任意字符 (数字/中英文/Emoji)，支持 React & Vue & Svelte
