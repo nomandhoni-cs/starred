@@ -323,7 +323,6 @@
 - [shadcnio/react-shadcn-components](https://github.com/shadcnio/react-shadcn-components) - Production-ready React components following shadcn/ui principles. TypeScript-first, Tailwind-styled, Radix-powered. Beautiful defaults with complete customization freedom. The frontend UI toolkit for 
 - [errilaz/awesome-js-runtimes](https://github.com/errilaz/awesome-js-runtimes) - A curated list of JavaScript/ECMAScript runtimes, app frameworks, and engines.
 - [omicronlab/Avro-Keyboard](https://github.com/omicronlab/Avro-Keyboard) - Unicode compliant open source Bangla typing software for Windows
-- [vedantmgoyal9/winget-releaser](https://github.com/vedantmgoyal9/winget-releaser) - Publish new releases of your application to the Windows Package Manager easily.
 - [agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) - 🍎 🖥 🎆 A curated list of screensavers for Mac OS X
 - [h4h13/paisa-app](https://github.com/h4h13/paisa-app) - Paisa app release and bugs maintain
 - [builtbybel/CloneApp](https://github.com/builtbybel/CloneApp) - 📦Easily Backup & Restore Windows Programs Settings
@@ -361,7 +360,7 @@
 - [nrnb/GoogleSummerOfCode](https://github.com/nrnb/GoogleSummerOfCode) - Main documentation site for NRNB GSoC project ideas and resources
 - [camicroscope/GSOC](https://github.com/camicroscope/GSOC) - Self-Contained Project Ideas from caMicroscope (Ideal for GSoC or small grants)
 - [cBioPortal/GSoC](https://github.com/cBioPortal/GSoC) - Documentation repository of Google Summer of Code (GSoC) project ideas for cBioPortal and related projects
-- [neutralinojs/gsoc2026](https://github.com/neutralinojs/gsoc2026) - Google Summer of Code 2025 guide - Neutralinojs
+- [neutralinojs/gsoc2026](https://github.com/neutralinojs/gsoc2026) - Google Summer of Code 2026 guide - Neutralinojs
 - [imranpollob/used-software](https://github.com/imranpollob/used-software) - Software I use for development or general purpose
 - [skills/introduction-to-github](https://github.com/skills/introduction-to-github) - Get started using GitHub in less than an hour.
 - [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) - Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript
@@ -385,6 +384,7 @@
 
 ## PowerShell 
 
+- [vedantmgoyal9/winget-releaser](https://github.com/vedantmgoyal9/winget-releaser) - Publish new releases of your application to the Windows Package Manager easily.
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
