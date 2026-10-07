@@ -1493,7 +1493,7 @@
 - [nrnb/GoogleSummerOfCode](https://github.com/nrnb/GoogleSummerOfCode) - Main documentation site for NRNB GSoC project ideas and resources
 - [tanvirrb/event-app](https://github.com/tanvirrb/event-app) - simple event app
 - [cBioPortal/GSoC](https://github.com/cBioPortal/GSoC) - Documentation repository of Google Summer of Code (GSoC) project ideas for cBioPortal and related projects
-- [neutralinojs/gsoc2026](https://github.com/neutralinojs/gsoc2026) - Google Summer of Code 2025 guide - Neutralinojs
+- [neutralinojs/gsoc2026](https://github.com/neutralinojs/gsoc2026) - Google Summer of Code 2026 guide - Neutralinojs
 - [nishant-666/ChatGPT-React](https://github.com/nishant-666/ChatGPT-React) - 
 - [mahmudulhasancsedu5/Algorithms](https://github.com/mahmudulhasancsedu5/Algorithms) - 
 - [moalamri/vscode-inline-fold](https://github.com/moalamri/vscode-inline-fold) - A custom decorator that "fold" matching content in single line
