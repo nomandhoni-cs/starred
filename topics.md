@@ -1122,6 +1122,7 @@
 - [r0oth3x49/udemy-dl](https://github.com/r0oth3x49/udemy-dl) - A cross-platform python based utility to download courses from udemy for personal offline use.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
+- [rurza/BatFi](https://github.com/rurza/BatFi) - Battery charge limiter for macOS. Hold any limit, below 80% too, change it by time and place, and charge to 100% when you need it.
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac. Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, image adjustments, PIP/streaming, EDID override. More info -  betterdisplay.pro/guide
 - [chilikasha/tinytools](https://github.com/chilikasha/tinytools) - Collection of useful, simple, single purpose apps and tools for everyday tasks.
@@ -1421,7 +1422,6 @@
 - [1aurabrown/shopify-boilerplate](https://github.com/1aurabrown/shopify-boilerplate) - 
 - [johndigital/shopify-boilerplate](https://github.com/johndigital/shopify-boilerplate) - Basic boilerplate theme for Shopify using themekit
 - [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
-- [rurza/BatFi](https://github.com/rurza/BatFi) - Battery charging limiter for macOS.
 - [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menu bar Tool to set Charge Limits and Prolong Battery Lifespan
 - [rkkr/simple-keyboard](https://github.com/rkkr/simple-keyboard) - 
 - [JesusFreke/smali](https://github.com/JesusFreke/smali) - smali/baksmali
@@ -1513,7 +1513,6 @@
 - [tonikelope/megabasterd](https://github.com/tonikelope/megabasterd) - Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.
 - [aryanc403/remind](https://github.com/aryanc403/remind) - A discord bot that sends reminders for future contests.
 - [imranpollob/used-software](https://github.com/imranpollob/used-software) - Software I use for development or general purpose
-- [polymorphicshade/NewPipe](https://github.com/polymorphicshade/NewPipe) - A fork of NewPipe with SponsorBlock functionality.
 - [Rob--W/dont-track-me-google](https://github.com/Rob--W/dont-track-me-google) - Firefox and Chrome extensions to prevent Google from making links ugly.
 - [Nafyaz/Competitive-Programming](https://github.com/Nafyaz/Competitive-Programming) - 
 - [thecodedealer/JS_CSS_PortfolioProject](https://github.com/thecodedealer/JS_CSS_PortfolioProject) - 
@@ -1887,6 +1886,7 @@
 - [ARahim3/Lekho](https://github.com/ARahim3/Lekho) - Free, open source Avro Phonetic Bangla keyboard for macOS — built natively for Apple Silicon (M1/M2/M3/M4/M5). Powered by OpenBangla's riti engine.
 - [pawello2222/WidgetExamples](https://github.com/pawello2222/WidgetExamples) - A demo project showing different types of Widgets created with SwiftUI and WidgetKit.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
+- [rurza/BatFi](https://github.com/rurza/BatFi) - Battery charge limiter for macOS. Hold any limit, below 80% too, change it by time and place, and charge to 100% when you need it.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
