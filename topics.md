@@ -69,6 +69,7 @@
 - [documentation](#documentation)
 - [dotnet](#dotnet)
 - [downloader](#downloader)
+- [dsh-plugin](#dsh-plugin)
 - [education](#education)
 - [electron](#electron)
 - [emoji](#emoji)
@@ -114,6 +115,7 @@
 - [jetpack-compose](#jetpack-compose)
 - [js](#js)
 - [json](#json)
+- [knowledge-graph](#knowledge-graph)
 - [kotlin](#kotlin)
 - [laravel](#laravel)
 - [latex](#latex)
@@ -700,6 +702,10 @@
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 
+## dsh-plugin 
+
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
+
 ## education 
 
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
@@ -1048,6 +1054,10 @@
 ## json 
 
 - [bowtie-json-schema/bowtie](https://github.com/bowtie-json-schema/bowtie) - JSON Schema in every programming language
+
+## knowledge-graph 
+
+- [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 
 ## kotlin 
 
@@ -1912,7 +1922,6 @@
 - [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
 - [danielsaidi/OnboardingKit](https://github.com/danielsaidi/OnboardingKit) - Create amazing SwiftUI onboarding experiences.
 - [saiftheboss7/ByeBye-Bytes](https://github.com/saiftheboss7/ByeBye-Bytes) - Native macOS video compressor for Apple Silicon. Drop a video, get a smaller H.265 MP4. Zero settings, hardware HEVC via VideoToolbox, Liquid Glass UI.
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 - [ARahim3/Lekho](https://github.com/ARahim3/Lekho) - Free, open source Avro Phonetic Bangla keyboard for macOS — built natively for Apple Silicon (M1/M2/M3/M4/M5). Powered by OpenBangla's riti engine.
 - [pawello2222/WidgetExamples](https://github.com/pawello2222/WidgetExamples) - A demo project showing different types of Widgets created with SwiftUI and WidgetKit.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
@@ -1928,7 +1937,6 @@
 - [danielsaidi/OnboardingKit](https://github.com/danielsaidi/OnboardingKit) - Create amazing SwiftUI onboarding experiences.
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [saiftheboss7/ByeBye-Bytes](https://github.com/saiftheboss7/ByeBye-Bytes) - Native macOS video compressor for Apple Silicon. Drop a video, get a smaller H.265 MP4. Zero settings, hardware HEVC via VideoToolbox, Liquid Glass UI.
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 - [pawello2222/WidgetExamples](https://github.com/pawello2222/WidgetExamples) - A demo project showing different types of Widgets created with SwiftUI and WidgetKit.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
