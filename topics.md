@@ -214,6 +214,7 @@
 - [web](#web)
 - [web-development](#web-development)
 - [website](#website)
+- [whatsapp](#whatsapp)
 - [whatsapp-bot](#whatsapp-bot)
 - [windows](#windows)
 - [windows-11](#windows-11)
@@ -2139,6 +2140,11 @@
 ## website 
 
 - [yashitanamdeo/yashitanamdeo.github.io](https://github.com/yashitanamdeo/yashitanamdeo.github.io) - My Personal Portfolio Website - V1
+
+## whatsapp 
+
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 
 ## whatsapp-bot 
 
