@@ -119,7 +119,7 @@
 ## Go 
 
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -173,7 +173,7 @@
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an applicat
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [sketch-hq/agents](https://github.com/sketch-hq/agents) - Skills catalog for Sketch
+- [sketch-hq/agents](https://github.com/sketch-hq/agents) - Agent plugins to work with Sketch
 - [mohammad-atikuzzaman/auto-random-route-visitior](https://github.com/mohammad-atikuzzaman/auto-random-route-visitior) - 
 - [jankovicsandras/imagetracerjs](https://github.com/jankovicsandras/imagetracerjs) - Simple raster image tracer and vectorizer written in JavaScript.
 - [tooolbox/node-potrace](https://github.com/tooolbox/node-potrace) - JavaScript port of Potrace, for NodeJS
@@ -386,6 +386,8 @@
 
 ## Python 
 
+- [nomandhoni-cs/app-polish](https://github.com/nomandhoni-cs/app-polish) - Agent skill for auditing, fixing, and release-testing web and mobile app UX
+- [nomandhoni-cs/app-retention](https://github.com/nomandhoni-cs/app-retention) - Agent skill for app retention strategy, activation, return loops, and experiments
 - [aasthas2022/SDE-Interview-and-Prep-Roadmap](https://github.com/aasthas2022/SDE-Interview-and-Prep-Roadmap) - Welcome to the SDE Interview Preparation Roadmap! This repository is not just about my personal journey; it's a collaborative space for collective learning. As I prepare for Software Development Engin
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
@@ -431,6 +433,7 @@
 
 ## Rust 
 
+- [anomalyco/rune](https://github.com/anomalyco/rune) - Rune: Native UI framework
 - [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
 - [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager) - misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
