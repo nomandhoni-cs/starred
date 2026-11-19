@@ -1383,6 +1383,9 @@
 
 ## others 
 
+- [nomandhoni-cs/app-polish](https://github.com/nomandhoni-cs/app-polish) - Agent skill for auditing, fixing, and release-testing web and mobile app UX
+- [nomandhoni-cs/app-retention](https://github.com/nomandhoni-cs/app-retention) - Agent skill for app retention strategy, activation, return loops, and experiments
+- [anomalyco/rune](https://github.com/anomalyco/rune) - Rune: Native UI framework
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 - [adrcotfas/goodtime](https://github.com/adrcotfas/goodtime) - A productivity app that combines pomodoro timers and flow techniques to boost focus and efficiency.
 - [aasthas2022/SDE-Interview-and-Prep-Roadmap](https://github.com/aasthas2022/SDE-Interview-and-Prep-Roadmap) - Welcome to the SDE Interview Preparation Roadmap! This repository is not just about my personal journey; it's a collaborative space for collective learning. As I prepare for Software Development Engin
@@ -1400,7 +1403,7 @@
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [ReVanced/GmsCore](https://github.com/ReVanced/GmsCore) - Free implementation of Play Services
 - [KhanShaheb34/iAvro](https://github.com/KhanShaheb34/iAvro) - Avro Keyboard for M-series macs
-- [sketch-hq/agents](https://github.com/sketch-hq/agents) - Skills catalog for Sketch
+- [sketch-hq/agents](https://github.com/sketch-hq/agents) - Agent plugins to work with Sketch
 - [KozielGPC/video-editor-app](https://github.com/KozielGPC/video-editor-app) - 
 - [bagindo/tauri-plugin-keygen](https://github.com/bagindo/tauri-plugin-keygen) - Tauri plugin for Keygen.sh licensing
 - [bytaesu/better-auth-separate-backend](https://github.com/bytaesu/better-auth-separate-backend) - Example: Better Auth on a separate backend
