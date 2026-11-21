@@ -155,7 +155,7 @@
 ## Java 
 
 - [ReVanced/GmsCore](https://github.com/ReVanced/GmsCore) - Free implementation of Play Services
-- [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 250kb Android launcher
+- [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 1Mb Android launcher
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [fodydev/afrim-keyboard](https://github.com/fodydev/afrim-keyboard) - afrim-keyboard/Afrim Input Method Engine for Android
 - [rkkr/simple-keyboard](https://github.com/rkkr/simple-keyboard) - 
