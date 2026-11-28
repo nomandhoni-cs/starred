@@ -513,7 +513,7 @@
 
 ## clash 
 
-- [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+- [Vialibrex/FlClash](https://github.com/Vialibrex/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 
 ## claude 
@@ -546,7 +546,7 @@
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,600+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## clojure 
 
@@ -711,6 +711,7 @@
 
 ## downloader 
 
+- [FortoGraphy/prism-download-manager](https://github.com/FortoGraphy/prism-download-manager) - Free, open-source IDM alternative for Windows, macOS and Linux — up to 32 connections, browser integration, video & MP3 downloads, torrents, crash-safe resume.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [r0oth3x49/udemy-dl](https://github.com/r0oth3x49/udemy-dl) - A cross-platform python based utility to download courses from udemy for personal offline use.
 - [Puyodead1/udemy-downloader](https://github.com/Puyodead1/udemy-downloader) - A Udemy downloader that can download courses, with DRM support.
@@ -791,11 +792,12 @@
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [feder-cr/Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - AIHawk: AI job application bot, automated job search, job hunting, auto-apply to resume-matching jobs while you sleep.
 - [mrinc/F-B-Hide-Recommendations-and-Reels](https://github.com/mrinc/F-B-Hide-Recommendations-and-Reels) - This google chrome extension hides Reels and recommendations on Facebook
+- [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
 
 ## flutter 
 
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+- [Vialibrex/FlClash](https://github.com/Vialibrex/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [namidaco/namida](https://github.com/namidaco/namida) - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, HlS(m3u8), FTP and ed2k. Cross-platform, built with Golang and Flutter.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
@@ -1103,6 +1105,7 @@
 
 ## linux 
 
+- [FortoGraphy/prism-download-manager](https://github.com/FortoGraphy/prism-download-manager) - Free, open-source IDM alternative for Windows, macOS and Linux — up to 32 connections, browser integration, video & MP3 downloads, torrents, crash-safe resume.
 - [schwwaaa/tauri-plugin-polar-license](https://github.com/schwwaaa/tauri-plugin-polar-license) - Polar.sh license keys for Tauri v2 desktop apps. One-time activation per computer, offline-safe launches that never block, background revocation checks, “Release this machine”, automatic self-recovery
 - [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
 - [wpexpertinbd/Bangla-Keyboard](https://github.com/wpexpertinbd/Bangla-Keyboard) - Free, open-source fixed-layout Bangla keyboard for macOS, Windows & Linux — one shared reorder engine, three native shells, plus free voice typing (Bangla + English). All three shipping.
@@ -1156,6 +1159,7 @@
 
 ## macos 
 
+- [FortoGraphy/prism-download-manager](https://github.com/FortoGraphy/prism-download-manager) - Free, open-source IDM alternative for Windows, macOS and Linux — up to 32 connections, browser integration, video & MP3 downloads, torrents, crash-safe resume.
 - [schwwaaa/tauri-plugin-polar-license](https://github.com/schwwaaa/tauri-plugin-polar-license) - Polar.sh license keys for Tauri v2 desktop apps. One-time activation per computer, offline-safe launches that never block, background revocation checks, “Release this machine”, automatic self-recovery
 - [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
 - [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
@@ -1202,6 +1206,7 @@
 
 ## mcp 
 
+- [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
 - [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -1356,6 +1361,8 @@
 
 ## open-source 
 
+- [FortoGraphy/prism-download-manager](https://github.com/FortoGraphy/prism-download-manager) - Free, open-source IDM alternative for Windows, macOS and Linux — up to 32 connections, browser integration, video & MP3 downloads, torrents, crash-safe resume.
+- [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io
 - [mnfst/llm-gateway](https://github.com/mnfst/llm-gateway) - Open Source LLM Gateway 🦚
 - [jksalcedo/librefind](https://github.com/jksalcedo/librefind) - Discover and replace proprietary apps with FOSS alternatives
@@ -1534,7 +1541,6 @@
 - [a-trost/fableton](https://github.com/a-trost/fableton) - Little demo site showing off the youtube embed
 - [Sourav9063/ftp-nextron](https://github.com/Sourav9063/ftp-nextron) - 
 - [Sourav9063/ftp_searcher](https://github.com/Sourav9063/ftp_searcher) - All ftp media of Bangladesh
-- [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
 - [AbdullahValley/bkash](https://github.com/AbdullahValley/bkash) - New bKash Payment Gateway API for Laravel Framework as well as Raw PHP. Especially for bKash Tokenized Checkout.
 - [manshu/reactjs-chrome-extension](https://github.com/manshu/reactjs-chrome-extension) - This is a cool little reactjs chrome extension build. Test it out. It's fun! ReadME coming soon.
 - [vercel/swr-site](https://github.com/vercel/swr-site) - The official website for SWR.
@@ -1649,7 +1655,7 @@
 - [nomandhoni-cs/blink-eye](https://github.com/nomandhoni-cs/blink-eye) - A minimalist Eye Care & Break Reminder app for Windows, macOS, and Linux. Prevents eye strain, RSI, and CVS with customizable timers, full-screen break notifications, Daily Usage analytics, and built-
 - [nomandhoni-cs/Facebook-QuietFeed](https://github.com/nomandhoni-cs/Facebook-QuietFeed) - Facebook QuietFeed: Silence the noise and distractions on your Facebook feed for a more focused browsing experience.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,600+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## programming 
 
@@ -1839,6 +1845,7 @@
 
 ## rust 
 
+- [FortoGraphy/prism-download-manager](https://github.com/FortoGraphy/prism-download-manager) - Free, open-source IDM alternative for Windows, macOS and Linux — up to 32 connections, browser integration, video & MP3 downloads, torrents, crash-safe resume.
 - [schwwaaa/tauri-plugin-polar-license](https://github.com/schwwaaa/tauri-plugin-polar-license) - Polar.sh license keys for Tauri v2 desktop apps. One-time activation per computer, offline-safe launches that never block, background revocation checks, “Release this machine”, automatic self-recovery
 - [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
 - [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager) - misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux
@@ -1866,6 +1873,7 @@
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
 
 ## sass 
 
@@ -1904,7 +1912,7 @@
 
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,600+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## sketch 
 
@@ -2019,7 +2027,7 @@
 ## terminal 
 
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,600+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## testing 
 
@@ -2109,7 +2117,7 @@
 
 ## v2ray 
 
-- [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+- [Vialibrex/FlClash](https://github.com/Vialibrex/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 
 ## video 
 
@@ -2132,7 +2140,7 @@
 
 ## vpn 
 
-- [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+- [Vialibrex/FlClash](https://github.com/Vialibrex/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada apps.
 
 ## vscode 
@@ -2185,6 +2193,7 @@
 
 ## windows 
 
+- [FortoGraphy/prism-download-manager](https://github.com/FortoGraphy/prism-download-manager) - Free, open-source IDM alternative for Windows, macOS and Linux — up to 32 connections, browser integration, video & MP3 downloads, torrents, crash-safe resume.
 - [schwwaaa/tauri-plugin-polar-license](https://github.com/schwwaaa/tauri-plugin-polar-license) - Polar.sh license keys for Tauri v2 desktop apps. One-time activation per computer, offline-safe launches that never block, background revocation checks, “Release this machine”, automatic self-recovery
 - [wpexpertinbd/Bangla-Keyboard](https://github.com/wpexpertinbd/Bangla-Keyboard) - Free, open-source fixed-layout Bangla keyboard for macOS, Windows & Linux — one shared reorder engine, three native shells, plus free voice typing (Bangla + English). All three shipping.
 - [TypeWhisper/typewhisper-win](https://github.com/TypeWhisper/typewhisper-win) - TypeWhisper for Windows - Local speech-to-text with translation
@@ -2248,7 +2257,7 @@
 
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,600+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 
 ## License
